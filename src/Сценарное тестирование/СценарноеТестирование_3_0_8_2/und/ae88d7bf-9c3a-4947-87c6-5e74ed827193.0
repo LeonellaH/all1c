@@ -1,0 +1,77 @@
+﻿<xs:schema
+
+	targetNamespace="http://v8.1c.ru/stest/extforms"
+
+	xmlns:tns="http://v8.1c.ru/stest/extforms"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+
+	attributeFormDefault="unqualified"
+	elementFormDefault="qualified">
+
+	<!-- ******************************************************************************************************************************* -->
+	<!-- Описание сложных типов -->
+
+	<xs:complexType name="СоставМакрошагов">
+		<xs:sequence>
+			<xs:element name="Макрошаги" type="tns:типБлокСценарияДерево" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="Наименование" type="xs:string" use="required" default=""/>
+		<xs:attribute name="ВерсияСтруктурыXML" type="xs:string" use="fixed" default="82-03"/>
+	</xs:complexType>
+
+	<xs:complexType name="типБлокСценарияДерево">
+		<xs:sequence>
+			<xs:element name="БлокСценарияСтрока" type="tns:типБлокСценарияСтрока" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="типБлокСценарияСтрока">
+		<xs:sequence>
+			<xs:element name="ЗначениеБлокаСценарияДерево" type="tns:типЗначениеБлокаСценарияДерево" minOccurs="0"/>
+			<xs:element name="БлокСценарияСтрока" type="tns:типБлокСценарияСтрока" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Автоописание" type="xs:string" minOccurs="0" default=""/>
+			<xs:element name="Описание" type="xs:string" minOccurs="0" default=""/>
+			<xs:element name="Комментарий" type="xs:string" minOccurs="0" default=""/>
+			<xs:element name="ОбСсылка" type="xs:string" minOccurs="0" default=""/>
+		</xs:sequence>
+		<xs:attribute name="НомерШага" type="xs:unsignedLong" use="required" default="0"/>
+		<xs:attribute name="Наименование" type="xs:string" use="required"/>
+		<xs:attribute name="ТипШага" type="xs:string" use="optional" default=""/>
+		<xs:attribute name="ТипМетаданных" type="xs:string" use="required" default=""/>
+		<xs:attribute name="ИмяМетаданных" type="xs:string" use="required" default=""/>
+		<xs:attribute name="НеВыводитьАвтоописание" type="xs:boolean" use="required" default="true"/>
+		<xs:attribute name="Активность" type="xs:unsignedByte" use="optional" default="1"/>
+		<xs:attribute name="Выполнено" type="xs:unsignedByte" use="optional" default="0"/>
+		<xs:attribute name="ПредставлениеОбъекта" type="xs:string" use="optional" default=""/>
+		<xs:attribute name="ВыполнитьВручную" type="xs:unsignedByte" use="optional" default="0"/>
+		<xs:attribute name="УИШ" type="xs:string" use="optional" default=""/>
+		<xs:attribute name="Цвет" type="xs:string" use="optional" default=""/>
+		<xs:attribute name="ИмяФормы" type="xs:string" use="optional" default=""/>
+		<xs:attribute name="ПредставлениеИмениМетаданных" type="xs:string" use="optional" default=""/>
+		<xs:attribute name="ДанныеКартинки" type="xs:unsignedByte" use="optional" default="0"/>
+		<xs:attribute name="ЗаголовокФормы" type="xs:string" use="optional" default=""/>
+	</xs:complexType>
+
+	<xs:complexType name="типЗначениеБлокаСценарияДерево">
+		<xs:sequence>
+			<xs:element name="ЗначениеБлокаСценарияСтрока" type="tns:типЗначениеБлокаСценарияСтрока" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="типЗначениеБлокаСценарияСтрока">
+		<xs:sequence>
+			<xs:element name="ЗначениеБлокаСценарияСтрока" type="tns:типЗначениеБлокаСценарияСтрока" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Значение" type="xs:string" minOccurs="1" />
+			<xs:element name="Синоним" type="xs:string" minOccurs="1" />
+			<xs:element name="Представление" type="xs:string" minOccurs="1" />
+			<xs:element name="Действие" type="xs:string" minOccurs="1" />
+			<xs:element name="Скрипт" type="xs:string" minOccurs="1" />
+		</xs:sequence>
+		<xs:attribute name="Имя" type="xs:string" use="required"/>
+		<xs:attribute name="Активность" type="xs:unsignedByte" use="optional" default="1"/>
+		<xs:attribute name="ТипУзла" type="xs:string" use="optional" default=""/>
+		<!-- <xs:attribute name="Кл" type="xs:boolean" use="required"/> -->
+		<xs:attribute name="ВклВОписание" type="xs:boolean" use="required"/>
+	</xs:complexType>
+
+</xs:schema>

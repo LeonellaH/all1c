@@ -1,0 +1,6103 @@
+﻿{3,
+{42,0,1,0,0,1,0,0,00000000-0000-0000-0000-000000000000,0,
+{1,1,
+{"ru","Добавление записанных интерактивных шагов из журнала"}
+},0,0,1,1,1,0,1,0,
+{3,3699f6a3-9a2a-4c82-a775-6ff4824a08ca,"ОбработкаОповещения",52dbb775-1631-4fd5-8c55-1615b5881dac,"ПередЗакрытием",9f2e5ddb-3492-4f5d-8f0d-416b8d1d5c5b,"ПриСозданииНаСервере",0,0},
+{0},1,
+{21,
+{-1,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},9,"ФормаКоманднаяПанель",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{0,0,1},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{140,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ФормаЗаписатьИЗакрыть",
+{1,0},1,
+{11,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,1,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{141,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ФормаЗаписатьИЗакрытьРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},1,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{97,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},3,"СтраницыФормы",
+{1,1,
+{"ru","Страницы формы"}
+},
+{1,1,
+{"ru","Страницы формы"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1,
+{0,0,0}
+},3,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{99,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},4,"СтраницаЖурналДействийПользователя",
+{1,1,
+{"ru","Журнал действий пользователя"}
+},
+{1,1,
+{"ru","Страница журнал действий пользователя"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{16,
+{4,0,
+{0},"",-1,-1,1,0,""},0,0,
+{0},
+{1,0},1,
+{"Pattern"},"",
+{3,4,
+{0}
+},0,0,3,3,0,0,0},2,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{111,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"КоманднаяПанельЖурнала",
+{1,1,
+{"ru","Командная панель журнала"}
+},
+{1,1,
+{"ru","Командная панель журнала"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,0,
+{0}
+},5,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{113,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналНачатьЗапись",
+{1,0},1,
+{5,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,3,
+{0},"",-1,-1,0,
+{
+{#base64:iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACvElEQVQ4jWWTS2hU
+ZxTHf9935yZjQBmpZBLyUPNObYO2hqYoDiSYTEAlQhUX0kW767qQrrrvouu2K1EI
+DdjS0iwcJsRnVBTxEQRDGBNsdUImmUfsnZl75z5OFzEx0/zhcDjwf3DgHCUibEcm
+k2F+fl5U4OG5DigwzFqUNunu7lb19fVVfLXdIJlMSkd4kbpdNUQaewmF94AIrl0g
+9/oFVsnljephcHBQ7TBIJpPSVJOms7cPXRsB8VE6hPgOYIA2cN5mePb0GVb4IMPD
+wwpAb4qjQYrOnkMQ+IiTR+nQRoJRizIMxM5hmpqj/YeRzGOmp6cFQK+srJD/+wmd
+rRHEWafmq+9ZajhatacELuKVEddC7ALHD7fw/OENstks+sH9+/JxtPyOUNwSGRe+
+4XqkbWMIPMS3Ea+0YeIV6Wt0uX3rlujFpSUa6iyo/It4JRYSCbricRYSCU7G47yM
+tLG47yMkcMAvE7hFqBQ41OiRXcuhs5lVtHj4dg5xSwAsJBJVHeBO22l+6DoProVf
+zhHWDmurWTQK0Ap8G6kU6OroAODV/2oTgZ0HrwxaEwChD/ZFWX6bpiniE1QsplMp
+4Dgwy71twm/nfuJze53ALoAElPwwKAi17m+h7LzGFxPt2QDcY3ZL+N2razjLT/Cs
+DPgVlO/i6108SvkcOdKHHomPqF/vWpTNKNpZ30odnxpjfGoMmfuFmtWHmKVlDCeL
+VCyKOsrTNAwMDCglIvz5x19ivUzyRfxTvH9mCPlFdkLj6jrM1iEuXb3Lh4MXicVi
+SgOMnT2j6vvO8PPELKG9vYgyEdHvD0kMRIUwIj38eGmG9mPniMViquoXACYnr8rt
+a7/x9elempubiOwOA7BWKLGcTvP7zRQnTn3J6OjIzmfaRD5f4MrlCUkkZpDABdEc
+ONDIJ/2fMTQUU+3tbVX8/wCTi1garLxZkgAAAABJRU5ErkJggg==}
+},0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{114,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналНачатьЗаписьРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{115,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналПауза",
+{1,0},1,
+{6,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,3,
+{0},"",-1,-1,0,
+{
+{#base64:iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACnklEQVQ4jW2T20tU
+YRTFf993zuhkFBOFk1R2MfFG0k0SCg8oaEFFQVFB9eLfk8/5JBVRUFH0UoxYORRR
+RGnEZGBKN8PRuWhnnHPmXHYP2qTZetoPe6219/q+rUSE5Uin04yNjYkKfXzPBQVG
+pBKlIzQ0NKjq6uoV/Wq5QCKRkN3RCarWVBCracKMrgcRPCdP9vtH7AWPH6qRzs5O
+tUogkUjIloop6pta0ZUxkAClTSRwAQO0gTufZnRkFDu6k+7ubgWg/5Dj4Tj1jS0Q
+BoibQ2lz0cGoRBkG4mSJRDQH2/Yi6bcMDg4KgJ6enib39R31tTHEnQOg99xBnvTt
+Kq/2pK+O3vNtiJNDnDxH9m7jw+unZDIZzFcvX8qeeBHxi4hXAPG5ZMGXmRVZcckC
+EQ98F/ELtNZ4JIeHRU9MTrK5yobSL8RfQAKHLzOQTIEEBWBR7MYwEBQJvQKU8rTU
++GRms5iZ9AxafAIni6pcB1qRTC0lbKzFn/tEMgUdzRB6RfBsgmKWqHaZnclgogCt
+IHCQUh60oqN5UcCf+wQskpMpuOAXECcHfhG0JgT0xk1xfs5XgISEJZtg/hvJFOUp
+4G8t7jyhZ4OELARRUKBrt2+j6IYEEiH0nbLj/xC4vyDwCPQa3owL+/a1onuO9qhb
+L2yKkTh66RnLju/7kff9f7+t7yAlm4KOMzIF7e3tSokID+4/FPtzgjNHD+B/G8Jc
+Sn8lNJ6uIlLbxcCdFzR3XsSyLKUBTp0+qapbT3L15nPMDU2IiiCiy1QRA1EmRqyR
+KwND1B0+i2VZCv45ptu370jy0V16TzSxdesWYuuiAMzmF/g5NcW9Z+N0HL/MsWM9
+q4/pD3K5PNev3ZTHj4eQ0APR7NhRw/62Q3R1WaqubteK/t9A5U8H+W5Q0gAAAABJ
+RU5ErkJggg==}
+},0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{116,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналПаузаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{117,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналОстановка",
+{1,0},1,
+{7,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,3,
+{0},"",-1,-1,0,
+{
+{#base64:iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACW0lEQVQ4jXWTy0uU
+YRSHn/edb3QUiolyJvFaJmrRoJYkJQ0oeYGSgtpFm/6N/oKgfbRICiTBossmGZFS
+EgmidJULUywbcdSZ0b5xLt/ltJBhZrR+cHbnec45i6NEhOLEYjEWFxdFuTa2lQUF
+Hm85SntpaWlRgUCgpF8VCyKRiJzxLVNZUYa/ug3DdxREsDJJ4mvfMfcsfqtWent7
+1SFBJBKRmrIozW0hdLkfxEFpA3GygAe0h+xujIX5BUzfKfr7+xWAzsNBd4nm1nPg
+Okg2gdLG/gRPOcrjQTJxvF7Nxa52JPaVyclJATA2NjZI/PxGz+U6JLvDzNNrADRU
+wepm4dbVzf168HCCnvY6nrz9QGdnJ/rz3JycD6YRO41YqRK4oaoA5yOWidgpQtUW
+M9PTopdXVjhZaULuD2LvlQDFYD6ulYJcknPVNttbcfR2bBMtNk4mjlilgvwGJTLL
+xEnH8eksW5vbaBSgFTgZJJcsmZ6vYpmbSYCdBq1xAeP4iSDru1Fq/A5uziwBigWF
+E0wQlz3HBwqM+oY60tk1HPGi7czhlQ/GsXB0BV+WHDo6QuiBwQH1YtYk7Q2iszv/
+oQqRnElKB5mPQnd3t1IiwpvX78T8EeH24AXsX1MYTuofqMbSlXjr+xgZn+Vs713C
+4bDSADdvDatAaJjHo58wjrUhyouILkwVD6IMPP5WHo1M0XTlDuFwWMGBZxobG5eZ
+9y+5f6ON2toa/Ed8AGwl91iPRnn1cYmr1+8xNDRw+JnySSSSPH82KhMTU4hrgWga
+G6vp7LpEX19YNTWdLun/C+krKrLvUwg/AAAAAElFTkSuQmCC}
+},0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{118,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналОстановкаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{119,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналПрочитатьИзФайла",
+{1,0},1,
+{8,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{120,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналПрочитатьИзФайлаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{121,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналСохранитьВФайл",
+{1,0},1,
+{9,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{122,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ЖурналСохранитьВФайлРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
+{10,
+{112,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"КоманднаяПанельЖурналаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{33,
+{105,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},7,"ТекстЖурнала",0,0,
+{1,0},
+{1,0},
+{1,
+{7}
+},
+{0},1,1,2,0,2,
+{1,0},
+{1,0},1,1,0,3,0,3,1,3,0,
+{4,0,
+{0},"",-1,-1,1,0,""},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{4,50,10,1,1,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},1,0,0,1,0},
+{0,0,0},1,
+{21,
+{106,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"ТекстЖурналаКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{"Pattern"},
+{"Pattern"},"","",
+{0},0,0,1,
+{10,
+{107,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ТекстЖурналаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},3,3},1,0,1,
+{10,
+{100,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"СтраницаЖурналДействийПользователяРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{101,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},4,"СтраницаПоследовательностьШагов",
+{1,1,
+{"ru","Последовательность шагов"}
+},
+{1,1,
+{"ru","Страница последовательность шагов"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{16,
+{4,0,
+{0},"",-1,-1,1,0,""},0,0,
+{0},
+{1,0},1,
+{"Pattern"},"",
+{3,4,
+{0}
+},0,0,3,3,0,0,0},2,143c00f7-a42d-4cd7-9189-88e4467dc768,
+{49,
+{1,02023637-7868-4a5f-8576-835a76e0c9ba},0,2,1,
+{0,
+{0,
+{"B",1},0}
+},"ШагиДерево",0,0,1,
+{1,0},
+{1,1,
+{"ru","Дерево шагов записанного фрагмента"}
+},
+{1,
+{2}
+},0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,2,2,1,1,0,0,0,0,2,0,0,1,1,
+{1,
+{22}
+},
+{4,3,
+{0},"",64,1,1,
+{
+{#base64:Qk02JQAAAAAAADYEAAAoAAAAEAIAABAAAAABAAgAAAAAAAAhAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAMDAwADA3MAA8MqmAAAg
+QAAAIGAAACCAAAAgoAAAIMAAACDgAABAAAAAQCAAAEBAAABAYAAAQIAAAECgAABA
+wAAAQOAAAGAAAABgIAAAYEAAAGBgAABggAAAYKAAAGDAAABg4AAAgAAAAIAgAACA
+QAAAgGAAAICAAACAoAAAgMAAAIDgAACgAAAAoCAAAKBAAACgYAAAoIAAAKCgAACg
+wAAAoOAAAMAAAADAIAAAwEAAAMBgAADAgAAAwKAAAMDAAADA4AAA4AAAAOAgAADg
+QAAA4GAAAOCAAADgoAAA4MAAAODgAEAAAABAACAAQABAAEAAYABAAIAAQACgAEAA
+wABAAOAAQCAAAEAgIABAIEAAQCBgAEAggABAIKAAQCDAAEAg4ABAQAAAQEAgAEBA
+QABAQGAAQECAAEBAoABAQMAAQEDgAEBgAABAYCAAQGBAAEBgYABAYIAAQGCgAEBg
+wABAYOAAQIAAAECAIABAgEAAQIBgAECAgABAgKAAQIDAAECA4ABAoAAAQKAgAECg
+QABAoGAAQKCAAECgoABAoMAAQKDgAEDAAABAwCAAQMBAAEDAYABAwIAAQMCgAEDA
+wABAwOAAQOAAAEDgIABA4EAAQOBgAEDggABA4KAAQODAAEDg4ACAAAAAgAAgAIAA
+QACAAGAAgACAAIAAoACAAMAAgADgAIAgAACAICAAgCBAAIAgYACAIIAAgCCgAIAg
+wACAIOAAgEAAAIBAIACAQEAAgEBgAIBAgACAQKAAgEDAAIBA4ACAYAAAgGAgAIBg
+QACAYGAAgGCAAIBgoACAYMAAgGDgAICAAACAgCAAgIBAAICAYACAgIAAgICgAICA
+wACAgOAAgKAAAICgIACAoEAAgKBgAICggACAoKAAgKDAAICg4ACAwAAAgMAgAIDA
+QACAwGAAgMCAAIDAoACAwMAAgMDgAIDgAACA4CAAgOBAAIDgYACA4IAAgOCgAIDg
+wACA4OAAwAAAAMAAIADAAEAAwABgAMAAgADAAKAAwADAAMAA4ADAIAAAwCAgAMAg
+QADAIGAAwCCAAMAgoADAIMAAwCDgAMBAAADAQCAAwEBAAMBAYADAQIAAwECgAMBA
+wADAQOAAwGAAAMBgIADAYEAAwGBgAMBggADAYKAAwGDAAMBg4ADAgAAAwIAgAMCA
+QADAgGAAwICAAMCAoADAgMAAwIDgAMCgAADAoCAAwKBAAMCgYADAoIAAwKCgAMCg
+wADAoOAAwMAAAMDAIADAwEAAwMBgAMDAgADAwKAA8Pv/AKSgoACAgIAAAAD/AAD/
+AAAA//8A/wAAAP8A/wD//wAA////AAcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHB8DAwAcHBwcHBwf3WFhYWFhYa6qaaPcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwgIBwcHBwcHBwcHBwcHBwcICAcHBwcHBwcHBwcHBwcH
+CAgHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHpKRbW1tbW1tb
+W1tbW1tbB6SkW1tbW1tbW1tbW1tbWwekpFtbW1tbW1tbW1tbW1sHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcoKAcH
+BwcHBwcHBwcHBwcHwCgHB8AHBwcHBwf3KFhYWGhrqiho9wcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcH9/f39/f39/f39/f39wcHB/f39/f39/f39/f39/cHBwf39/f39/f3
+9/f39/f3BwcHBwcHBwcH9/cIBwcHBwcHBwcHBwcHB+joCAcHBwcHBwcHBwcHBwfo
+6AgHBwcHBwcHBwcHBwcHBwcHBwcHBwcHAAAAAAAAAAAABwcHBwcHpPb29vb29vb2
+9/b29vZbB6T//////////5//////Wwek//////////+f/////1sHBwf39/f39/f3
+9/f3BwcHBwcH2tra2tra2tra2gcHBwcHB9ra2tra2tra2toHBwcHBwcHBwcHBwcH
+BwcHBwcHmpKSkpKSkpKSkpKSkpKSBwcHB/f39/f39/f39/f39wcH9/f39/f39/f3
+9/f39/cHBwf39/f39wcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcoKAcH
+BwcHBwcHBwcHBwcHwCgHB8AHBwcHBwf391hYWJqaqmj3BwcHBwcHBwf39/f39/f3
+9/f39/cHB21bW1tbW1tbW1tbW1ttBwcHt7e3t261tbUHBwcHBwcHBwf39/f39/f3
+9/f39/cHB21bW1tbW1tbW1tbW1ttBwcHB/f39/f39/f39/f39wcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwdbBwcHBwcHBwcHBwcHBwcHBAcHBwcHBwcHBwcHBwcHBwQH
+BwcHBwcHBwcH9///////////////9wcHB/f///////////////cHBwf3////////
+///////3BwcHBwcHBwcH9/cIBwcHBwcHBwcHBwcHB+joCAcHBwcHBwcHBwcHBwfo
+6AgHBwcHBwf39/f39/f39/f39/f3BwcHAHd3d3d3d3cAAAcHBwcHpPb29vb29vb3
+B/f29vZbB6T/////////n++f////Wwek/////////5/vn////1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwcH2v/////////////aBwcHBwcHBwcHBwcH
+BwcHBwcHmv///5r/////mv////+SBwcHBwcICAgICAgICAgI9wcH9wgICAgICAgI
+CAgICPcHBwf39/f39wcHB/cHBwcHBwcHBwcHBwf5+QcHBwcHBwcHBwcHBygoKCgH
+BwcHBwcHBwcHBwdwwCgoB8AHBwcHBwcH9/eaKCiqaPcHBwcHBwcHBwcH////////
+//////cHB222tra2tra2tra2trZtBwcHt7e3t261tbVyBwcHBwcHBwcH////////
+//////cHB222tra2tra2tra2trZtBwcHBwf/////////////9wcH+fkHBwcHBwcH
++fn5+QcHBwcHBwcHW1tbW1sHBwcHBwcHBwcHB9rampoEBwcHBwcHBwcHBwfa2pqa
+BAcHBwcHBwcH9///B/8H/wf/B///9wcHB/f/mgeaB5oHmgea//cHBwf3/5oHmgea
+B5oHmv/3BwcHBwcHBwcH9/cIBwcHBwcHBwcHBwcHB+joCAcHBwcHBwcHBwcHBwfo
+6AgHBwcHBwf3///////////////3BwcHAHd3d3d3d3cALgAHBwcHpPb29vb29vcH
+Bwf39vZbB6T///////+f7+/vn///Wwek////////n+/v75///1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwcH2v/////////////aBwcHBwcHBwcHBwcH
+BwcHBwcHpP8H/6P/Bwj/o/8HCP+bBwcHBwcICPYH9ggICAgI9wcH9wgHBwcICAcH
+BwcICPcHBwf39/f39wcHB/f3BwcHBwcHBwcH+fn5+fn5BwcHBwcHBwcHByhwKCgo
+BwcHBwcHBwcHB8AowCjAB8AHBwcHBwcHB/f3ayhbXa4HBwcHBwcHBwcH///27fb/
+//////cHB2229/f3trb39/f3trZtBwcHt7e3t261tbVycgcHBwcHBwcH///27fb/
+//////cHB2229/f3trb39/f3trZtBwcHBwf///bt9v//////9wcH+fkHBwcHBwf5
++fn5+fkHBwcHB1tbpKSkpFtbWwcHBwcHBwfa2urq6uramgQHBwcHBwcH2trq6urq
+2poEBwcH9/f39//2B/YH9gf2B/b/9/f39/f/9gf2B/YH9gf2//f39/f3//YH9gf2
+B/YH9v/3BwcHBwcICAcH9/cIBwcHBwcHBwcHCAgHB+joCAcHBwcHBwcHBwgIBwfo
+6AgHBwcHBwf3///////////////3BwcHAHd3d3d3d3cALi4ABwcHpPb29vb29wcH
+BwcH9/ZbB6T//////5/v7+/v75//Wwek//////+f7+/v7++f/1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwcH2v/////////////aBwcHBwcHBwcHBwcH
+BwcHBwcH7P///+T/////5P////+bBwcHBwcI9vcI9/YICAgI9wcH9wgICAgICAgI
+CAgICPcHBwf39/f39wcHB/f39wcHBwcHBwf5+fn5+fn5+QcHBwcHBwcoKHBwcCgo
+BwcHBwcHBwcHKMBwwHDAKMAHBwcHBwcHBwf3XV2urq6urgcHBwcHBwcH//aa/5r2
+//////cHB222tra2tra2tra2trZtBwcHt7e3t261tbVycnIHBwcHB/kH//aa/5r2
+//////cH+W22tra2tra2tra2trZtBwcHBwf/9pr/mvb/////9wcH+fn5+fkHBwf5
++QcH+fkHBwf296SkpKSkpKSkW1tbBwcHCfPq6urq6urq6tqaBAcH+Qnz6urq6urq
+6uramgQH9wgI9///9//3//f/9///9/cICPf///f/9//3//f///f3CAj3///3//f/
+9//3///3BwcHB6SkCAcH9/cIBwcHBwcHBwfa2ggHB+joCAcHBwcHBwcH2toIBwfo
+6AgHBwcHBwf3///////////////3BwcHAHd3d3d3d3cALi4ABwcHpPb29vf29vcH
+Bwf39vZbB6T///+o//+f7+/vn///Wwek+f//qOr/n+/v75///1sHB/f29gcHBwf2
+9vb29wcHBwfa//8ICAgI/////9oHBwf52v//CAgICP/////aBwcHBwcHBwcHBwcH
+BwcHBwcH7f8H/+z/Bwj/7P8HCP+jBwcHBwcI9wcHB/cHBwcI9wcH9wgHBwcHBwcH
+BwcICPcHBwf39/f39wcHB/f39wcHBwcHBwf5+fn5+fn5+QcHBwcHByhwcAcHcCgo
+KAcHBwcHBwcocMAHwHDAKMAHBwcHBwcHBwddrq637++3rwcHBwcHBwcH/5oHBwea
+B+0H//cHB2229/f39/f39/f3trZtBwcHt7e3t261tbVycnIHBwcHBwf5/5oH+Qea
+B+0H//cHB/m29/f59/f39/f3trZtBwcHBwf/mgcHB5oH7Qf/9wcH+fn5+fn5BwcH
+BwcH+fkHBwcHB/b3W6SkpKSkpAcHBwcHBwcJ8wTq6urq6uoHBwcHB/kHCfP56urq
+6urqBwcH9wgI9//2B/YH/wf2B/b/9/cICPf/9gf2B/YH9gf2//f3+Qf3//kH9gf2
+B/YH9v/3BwcHB6SkCAcH9/cIBwcHBwcHBwfa2ggHB+joCAcHBwcHB/kH2tr5Bwfo
+6AgHBwcHBwf3///////////////3BwcHAHd3d3d3d3cALi4ABwcHpPb29wf39vb3
+B/f29vZbB6T//6izqP//n++f////Wwek//mos6j5/5/vn////1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwcH+f////n////////aBwcHBwcHBwcHBwcH
+BwcHBwcH7f///+3/////7f////+kBwcHBwcI9/b29vf29ggI9wcH9wgICAgICAgI
+CAgICPcHBwf39/f39wcHB/f39wcHBwcHB/n5+fn5+fn5+fkHBwcHB3AHBwcHB3Bw
+KCgHBwcHBwdwB8AHwAfAKMAoBwcHBwcHB65drrfv9va3rvcHBwcHBwcH/5r///+a
+//////cHB222tra2tra2tra2trZtBwcHt7e3t261tbVycnIHBwcHBwf5+fn5//+a
+//////cHB/n5+fm2tra2tra2trZtBwcHBwf/mv///5r/////9wcH+fkHB/n5BwcH
+B/n5+QcHBwcHB1tbW1tbpKQHBwcHBwcHBwfa2pqaBOrqBwcHBwcHB/n5+fmamgTq
+6gcHBwcH9wgI9///9//3//f/9///9/cICPf///f/9//3//f///f3+fn5+f/3//f/
+9//3///3BwcHB6SkCAcH9/cIBwcHBwcHBwfa2ggHB+joCAcHBwcHB/n5+fkIBwfo
+6AgHBwcHBwf3///////////////3BwcHAHd3d3d3d3cALi4ABwcHpPb3BwcH9/b2
+9/b29vZbB6T/qLOzs6j//5//////WwekqPn5+fmo//+f/////1sHB/f29gcHBwcH
+B/b29wcHBwfa//8ICAgICAj//9oHBwcH+fn5+QgICAgI///aBwcHBwcHBwcHBwcH
+BwcHBwcH7f8H/+z/Bwj/7P8HCP+jBwcHBwcI9vf29/YHBwcI9wcH9wgICAgICAgH
+BwcICPcHBwf39/f39wcHB/f39wcHBwcHB/n5+fn5+fn5+fkHBwcHBwcHBwcHBwcH
+cCgoBwcHBwcHB8AHwAfAB8AoKAcHBwcHB65uru/29va3r64HBwcHBwcH//aa/5r2
+7e0H//cHB222tra2tra29/f3trZtBwcHt7e3t261tbVycnIHBwcHBwcH+fma/5r2
+7e0H//cHB235+ba2tra29/f3trZtBwcHBwf/9pr/mvz//wf/9wcH+fkHB/n5BwcH
++fn5BwcHBwdbW6SkpKRbW1sHBwcHBwcH2trq6urq2poEBwcHBwcHBwf5+erq6tqa
+BAcHBwcH9wgI9//2B/YH9gf2B/b/9/cICPf/9gf2B/YH9gf2//f3B/n5//YH9gf2
+B/YH9v/3BwcHB6SkCAgI9/cICAgIBwcHBwfa2ggICOjoCAgICAcHBwf5+doIBwjo
+6AgICAgHBwf3///////////////3BwcHAHd3d3d3d3cALi4ABwcHpPf39/f39/f2
+9/b29vZbB6SoqKioqKio//f/////WwekqKj5+aioqP/3/////1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwcH2vn5///////////aBwcHBwcHBwcHBwcH
+BwcHBwcH7f///+3/////7f////+kBwcHBwcI9ggHCPb29ggI9wcH9wgICAgIBwcH
+BwcICPcHBwf39/f39wcHB/f39wcHBwcHBwf5+fn5+fn5+QcHBwcHBwcHBwcHBwcH
+B3AoBwcHBwcHB8AHwAfAB8BwKAcHBwcH9zZuru9d9raurq4HBwcHBwcH////7f//
+//////cHB222tra2tvf39/f3trZtBwcHt7e3t261tbVycnIHBwcHBwf5+fn57f//
+//////cHB/n5+fm2tvf39/f3trZtBwcHBwf////t///8////9wcH+fkHB/n5Bwf5
++QcHBwcHB/ekpKSkpKSkpFtbWwcHBwfz6urq6urq6uramgQHBwcHB/n5+fnq6urq
+2poEBwcH9wgI9///////////////9/cICPf///////////////f3+fn5+f//////
+///////3BwcHB6SkpPf39/f39/cIBwcHBwfa2qTo6Ojo6OjoCAcHB/n5+fkH6Ojo
+6Ojo6AgHBwf3///////////////3BwcHAHd3d3d3d3cALi4ABwcHpPb29vf29vb2
+9/b29vZbB6T////3//////f/////Wwek//n5+fn////3/////1sHB/f29gcHBwcH
+B/b29wcHBwfa//8ICAgICAj//9oHBwcH+fn5+QgICAgI///aBwcHBwcHBwcHBwcH
+BwcHBwcH7f8H/+z/Bwj/7P8HCP+jBwcHBwcIB/b29gcHBwcI9wcH9wgICAgICAgI
+CAgICPcHBwf39/f39/f29vb39wcHBwcHBwf5+fn5+fn5+QcHBwcHBwcHBwcHBwcH
+BwdwKAcHBwcHB8AHwAfAB8AHcCgHBwcHNza3XW5uB/a2rvcHBwcHBwcH/+3///8H
+7e0H//cHB222tra2tra2tra2trZtBwcHt7e3t25utra2cnIHBwcHB/n5/+35+fkH
+7e0H//cH+fm2tvn5+ba2tra2trZtBwcHBwf/7f////z8/Af/9wcH+fkHB/n5Bwf5
++QcH+fkHBwf296SkpKSkpKQHBwcHBwcHCfPq6urq6urqBwcHBwcH+fkJ8/n5+erq
+6gcHBwcH9wgI9/f39/f39/f39/f39/cICPf39/f39/f39/f39/f5+Qj3+fn59/f3
+9/f39/f3BwcHB6SkpPf39/f39/cHBwcHBwfa2qTo6Ojo6OjoBwcH+fkI2vn5+ejo
+6Ojo6AcHBwf3///////////////3BwcHAAAAAAAAAAAALi4ABwcHpPb29vf29/f3
+9/f39vZbB6T////3/21tbW1tbf//Wwek+fn/9/n5+W1tbW3//1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwf5+f//+fn////////aBwcHBwcHBwcHBwcH
+BwcHBwcH7f///+3/////7f////+kBwcHBwcICAgICAgICAgI9wcH9/f39/f39/f3
+9/f39wgHBwf39/f39/f39vb29wcHBwcHBwcH+fn5+fn5BwcHBwcHBwcHBwcHBwcH
+BwcHcHAHBwcHB8AHwAfAB8AHB3BwBwcHNze3bm43nba3rvcHBwcHBwcH////////
+//////cHB21tbW1tbW1tbW1tbW22BwcHt7e3t25ubra2tnIHBwcHBwcH////////
+//////cHB21tbW1tbW1tbW1tbW22BwcHBwf///////z8/P//9wcH+fn5+fn5Bwf5
++fn5+fkHBwcHB/b396SkBwcHBwcHBwcHBwcJ8/Pq6gcHBwcHBwcHBwcHCfPz6uoH
+BwcHBwcH9wgICAgICAgICP//////B/cICAgICAgICAg3Nzc3Nwf3CAgICAgICAgI
+Nzc3NzcHBwcHB6SkCAcHBwcHBwcHBwcHBwfa2ggHBwcHBwcHBwcHBwcH2toIBwcH
+BwcHBwcHBwf8/Pz8/Aj8/Aj8CPz8BwcHBwD7+/v7+/v7AC4ABwcHpPb29vf39wcH
+Bwf39vZbB6T////3bW2/v7+/bf//Wwek////921tv7+/v23//1sHB/f29vb29vb2
+9vb29wcHBwfa/////////////9oHBwcH2v/////////////aBwcHBwcHBwcHBwcH
+BwcHBwcH9fXt7e317e3t7e3t7e3kBwcHBwcIBwcHBwcHBwcI9wcH9/f39/f39wcH
+BwcHBwcHBwcHCAgICPf3B/b29gcHBwcHBwcHBwf5+QcHBwcHBwcHBwcHBwcHBwcH
+BwcHB3BwBwcHB8AHB8AHB8AHBwdwcAcHNzc3Njc3bl2uXZsHBwcHBwcH/wcHBwcH
+BwcH//cHB21tbW1tbVsHBwcHBwcHBwcHB7+/v79ubge2trYHBwcHBwcH/wcHBwcH
+BwcH//cHB21tbW1tbVsHBwcHBwcHBwcHBwf/BwcH/Pz8/Pz/9wcH+fn5+fkHBwcH
++fn5+QcHBwcHBwcH9gcHBwcHBwcHBwcHBwcHBwkHBwcHBwcHBwcHBwcHBwcJBwcH
+BwcHBwcH9wgICAgICAgICAgI9wcHB/cICAgICAgICAgICPcHBwf3CAgICAgICAgI
+CAj3BwcHBwcICKSkCAgICAcHBwcHBwcHCAja2ggICAgHBwcHBwcHBwgI2toICAgI
+BwcHBwcHBwf8/Pz8/PwI/PwI/Aj8BwcHBwcA+/v7+/v7+wAABwcHpPb29vb29wcH
+Bwf39vZbB6T//////22/v7+/bf//Wwek//////9tv7+/v23//1sHB/f29vf39/f3
+9/b29wcHBwfa//9tbW1tbVv//9oHBwcH2v//bW1tbW1b///aBwcHBwcHBwcHBwcH
+BwcHBwcHB////wf/////B//////kBwcHBwcI9/f39/f39/cI9wcH9/f39/f3BwcH
+BwcHBwcHBwcHBwgICAj3BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwfABwcHB8AHBwcHBwcH9zc3Nzc3N65dU10HBwcHBwcH/5qampqa
+mpqa//cHB21tbW1tWwcHBwcHBwcHBwcHBwe/v7+/bgcHBwcHBwcHBwcH/5qampqa
+mpqa//cHB21tbW1tWwcHBwcHBwcHBwcHBwf////8/Pz//Pz/9wcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcH9/f39/f39/f39/f39wcHB/f39/f39/f39/f39/cHBwf39/f39/f39/f3
+9/f3BwcHB6SkpKSkpKSkCAcHBwcHBwfa2tra2tra2ggHBwcHBwcH2tra2tra2toI
+BwcHBwcHBwf8/Pz8/Pz8/Pz8/Pz8BwcHBwcHAAAAAAAAAAAABwcHpPb29vb29/f3
+9/f39vZbB6T//////21tbW1tbf//Wwek//////9tbW1tbW3//1sHBwf39/cHBwcH
+9/f3BwcHBwcH2to2f39/f23a2gcHBwcHB9raNn9/f39t2toHBwcHBwcHBwcHBwcH
+BwcHBwcHCAn19QgJ9fX1CAf19fXsBwcHBwcICAgICAgICAgI9wcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcICAgIBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwfABwcHwAcHBwcHBwcHBza3t7e3t7e3N/cHBwcHBwcH////////
+//////cHBwcHBwcHBwcHBwcHBwcHBwcHBwcHv7+/vwcHBwcHBwcHBwcH////////
+//////cHBwcHBwcHBwcHBwcHBwcHBwcHBwf///////////z89wcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwgICAgIBwcHBwcHBwcHBwcJCQkJCQcHBwcHBwcHBwcHCQkJ
+CQkHBwcHB6SkpKSkpKSkBwcHBwcHBwfa2tra2tra2gcHBwcHBwcH2tra2tra2toH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHpPb29vb29vb2
+9vb29vakB6T/////////////////pAek/////////////////6QHBwcHBwf39/f3
+9wcHBwcHBwcHBwd/NjY2NjYHBwcHBwcHBwcHfzY2NjY2BwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH9wcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHwMDABwcHBwcHBwcHBwf3t7e3NjZuBwcHBwcHBwcHBwcHBwcH
+BwcHB/cHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHB/cHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwf8/AcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHpKSkpKSkpKSk
+pKSkpKSkB6SkpKSkpKSkpKSkpKSkpAekpKSkpKSkpKSkpKSkpKQHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+BwcHBwcHBwcHBwcHBwcHBwcHBwcHBw==}
+},0,""},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,1,0,
+{1,2391e7b8-7235-45d7-ab7e-6ff3dc086396,"ШагиДеревоПередНачаломДобавления",0,0},
+{13,01833a5a-6553-4c49-b445-095018107bb5,05468165-f954-45a5-84f2-6641c51f9f23,0ae4bea5-23be-42a7-b69e-97b11b29c453,0d0249a4-2b2f-4fc0-a66f-b36f9494b3cc,2bbe4e12-06d2-409b-a972-eea585125d83,49602716-fea6-497f-8047-726404038857,51c99108-107c-43e1-8918-e48835bf2495,58b2a785-23f6-4b0e-a324-9a1323285595,88078230-1f6b-415f-99e4-ad2ff73810cf,8d772f97-c0ef-47c0-9cb0-efea28c61341,9ef79140-3de6-436a-8dda-610bb963f5db,b0016a68-ec64-4e6d-b905-c71fd62efc4c,b41f5bbc-ba5d-4888-8cd1-db246a371418},1,
+{21,
+{2,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"ШагиДеревоКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{21,
+{3,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},9,"ШагиДеревоКоманднаяПанель",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{0,0,0},2,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{44,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},6,"ШагиДеревоГруппаДействийНадДеревом",
+{1,1,
+{"ru","Группа действий над деревом"}
+},
+{1,1,
+{"ru","Шаги дерево группа действий над деревом"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{2,
+{0},2,0},3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{38,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоПереместитьВверх",
+{1,0},1,
+{1,37740564-9e86-44a0-bea9-3f485a5a3f91},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{39,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоПереместитьВверхРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{40,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоПереместитьВниз",
+{1,0},1,
+{1,fa51b106-eae6-44c7-8054-76cbb3100603},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{41,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоПереместитьВнизРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{42,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоУдалить",
+{1,0},1,
+{1,8d772f97-c0ef-47c0-9cb0-efea28c61341},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{43,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоУдалитьРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
+{10,
+{45,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоГруппаДействийНадДеревомРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{123,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоШагиОбновить",
+{1,0},1,
+{10,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{124,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоШагиОбновитьРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},1,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{33,
+{8,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},2,"ШагиДеревоНаименование",1,0,
+{1,0},
+{1,0},
+{2,
+{2},
+{2}
+},
+{0},1,1,2,0,2,
+{1,0},
+{1,0},1,1,0,3,0,3,2,3,0,
+{4,0,
+{0},"",-1,-1,1,0,""},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{31,
+{3,0},0,0,2,2,1,2,2,2,2,2,2,2,2,2,
+{"U"},
+{"U"},"",0,
+{4,0,
+{0},"",-1,-1,1,0,""},0,0,2,3,00000000-0000-0000-0000-000000000000,
+{5004,0},
+{0,0},2,
+{1,0},
+{1,0},2,1,0,
+{"Pattern"},1,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},1,
+{3,0,0},0,
+{1,0},2,0,2,0,1,0,0,1,0},
+{0,0,0},1,
+{21,
+{9,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"ШагиДеревоНаименованиеКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{"Pattern"},
+{"Pattern"},"","",
+{0},0,0,1,
+{10,
+{10,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоНаименованиеРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},3,3},2,2,1,0,
+{"Pattern"},"","",2,2,0,1,
+{10,
+{4,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},1,1,1,1,
+{4,
+{142,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ШагиДеревоСтрокаПоиска",
+{1,0},
+{1,0},1,1,0,1,
+{1,0,2,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,0,0},1,
+{21,
+{143,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,8,"ШагиДеревоСтрокаПоискаКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{10,
+{144,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ШагиДеревоСтрокаПоискаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},2,
+{1,0},0,3,3},1,
+{4,
+{145,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,1,"ШагиДеревоСостояниеПросмотра",
+{1,0},
+{1,0},1,1,0,1,
+{1,0,2,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{7,3,0,1,100},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e},3,
+{0,0,0},1,0,0},1,
+{21,
+{146,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,8,"ШагиДеревоСостояниеПросмотраКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{10,
+{147,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ШагиДеревоСостояниеПросмотраРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},2,
+{1,1},0,3,3},1,
+{4,
+{148,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,2,"ШагиДеревоУправлениеПоиском",
+{1,0},
+{1,0},1,1,0,1,
+{1,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,0,0,2},1,
+{21,
+{149,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,8,"ШагиДеревоУправлениеПоискомКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{10,
+{150,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ШагиДеревоУправлениеПоискомРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},2,
+{1,2},0,3,3},0,1,0,0,1,0,3,3},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{89,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},5,"ГруппаАвтоописание",
+{1,1,
+{"ru","Описание шага"}
+},
+{1,1,
+{"ru","Группа автоописание"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{23,0,0,1,1,
+{0},
+{1,0},
+{"Pattern"},"",
+{3,4,
+{0}
+},0,0,0,1,
+{1,0},0,0,3,3,2,0,1,0},1,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{33,
+{86,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},2,"ШагиДеревоАвтоописание",0,0,
+{1,0},
+{1,1,
+{"ru","Автоописание шага"}
+},
+{2,
+{1,02023637-7868-4a5f-8576-835a76e0c9ba},
+{6}
+},
+{0},1,1,2,0,2,
+{1,0},
+{1,0},1,1,0,3,0,3,1,3,0,
+{4,0,
+{0},"",-1,-1,1,0,""},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{31,
+{3,0},0,0,2,2,1,2,1,2,2,2,2,2,2,2,
+{"U"},
+{"U"},"",0,
+{4,0,
+{0},"",-1,-1,1,0,""},0,0,2,3,00000000-0000-0000-0000-000000000000,
+{5004,0},
+{0,0},2,
+{1,0},
+{1,0},2,1,0,
+{"Pattern"},1,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},1,
+{3,0,0},0,
+{1,0},2,0,2,0,1,0,0,1,0},
+{0,0,0},1,
+{21,
+{87,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"ШагиДеревоАвтоописаниеКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{"Pattern"},
+{"Pattern"},"","",
+{0},0,0,1,
+{10,
+{88,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ШагиДеревоАвтоописаниеРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},3,3},1,0,1,
+{10,
+{90,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ГруппаАвтоописаниеРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,0,1,
+{10,
+{102,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"СтраницаПоследовательностьШаговРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{103,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},4,"СтраницаТекстПроцедуры",
+{1,1,
+{"ru","Текст процедуры"}
+},
+{1,1,
+{"ru","Страница текст процедуры"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{16,
+{4,0,
+{0},"",-1,-1,1,0,""},0,0,
+{0},
+{1,0},1,
+{"Pattern"},"",
+{3,4,
+{0}
+},0,0,3,3,0,0,0},3,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{125,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"КоманднаяПанельТекстаПроцедуры",
+{1,1,
+{"ru","Командная панель текста процедуры"}
+},
+{1,1,
+{"ru","Командная панель текста процедуры"}
+},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,0,
+{0}
+},0,1,0,1,
+{10,
+{126,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"КоманднаяПанельТекстаПроцедурыРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{33,
+{108,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},7,"ТекстПрограммы",0,0,
+{1,0},
+{1,0},
+{1,
+{8}
+},
+{0},1,0,2,0,2,
+{1,0},
+{1,0},1,1,0,3,0,3,1,3,0,
+{4,0,
+{0},"",-1,-1,1,0,""},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{4,50,10,1,1,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},1,0,0,1,0},
+{0,0,0},1,
+{21,
+{109,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"ТекстПрограммыКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
+{127,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ТекстПроцедурыОбновить",
+{1,0},1,
+{2,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{0},3,0,0,0,2,2,0,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,
+{4,0,
+{0},"",-1,-1,1,0,""},1,
+{"Pattern"},"",2,0,1,
+{10,
+{128,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ТекстПроцедурыОбновитьРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},1,
+{"Pattern"},
+{"Pattern"},"","",
+{0},0,0,1,
+{10,
+{110,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ТекстПрограммыРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},3,3},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{21,
+{138,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},5,"ГруппаПоиска",
+{1,1,
+{"ru","Поиск объектов"}
+},
+{1,1,
+{"ru","Группа поиска"}
+},0,1,0,0,0,1,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{23,0,0,2,1,
+{0},
+{1,0},
+{"Pattern"},"",
+{3,4,
+{0}
+},1,0,1,1,
+{1,0},0,0,3,3,2,0,1,0},2,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{33,
+{135,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},5,"ПоискОбъектов",1,0,
+{1,0},
+{1,0},
+{1,
+{14}
+},
+{0},1,0,2,0,2,
+{1,0},
+{1,0},1,1,0,3,0,3,1,3,0,
+{4,0,
+{0},"",-1,-1,1,0,""},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{8,
+{3,3,"",
+{"#",0e704aa2-07bd-48b9-8223-a0212c4d5fc2,
+{0,1,
+{"N",0},00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,
+{1,1,
+{"ru","По заголовку"}
+}
+}
+},"",
+{"#",0e704aa2-07bd-48b9-8223-a0212c4d5fc2,
+{0,1,
+{"N",1},b0be78f2-0ee6-4d31-a3bb-77dd32ba5bec,00000000-0000-0000-0000-000000000000,
+{1,1,
+{"ru","По имени"}
+}
+}
+},"",
+{"#",0e704aa2-07bd-48b9-8223-a0212c4d5fc2,
+{0,1,
+{"N",2},b0be78f2-0ee6-4d31-a3bb-77dd32ba5bec,00000000-0000-0000-0000-000000000000,
+{1,1,
+{"ru","По имени и заголовку"}
+}
+}
+},
+{0,
+{4,0,
+{0},"",-1,-1,1,0,""}
+},
+{0,
+{4,0,
+{0},"",-1,-1,1,0,""}
+},
+{0,
+{4,0,
+{0},"",-1,-1,1,0,""}
+}
+},0,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},0,0,
+{3,4,
+{0}
+},0,0,2},
+{0,0,0},1,
+{21,
+{136,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"ПоискОбъектовКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{"Pattern"},
+{"Pattern"},"","",
+{0},0,0,1,
+{10,
+{137,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ПоискОбъектовРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},3,3},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{33,
+{129,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},3,"СтроитьПолнуюИерархию",4,0,
+{1,1,
+{"ru","Учитывать иерархию элементов"}
+},
+{1,0},
+{1,
+{10}
+},
+{0},1,0,2,0,2,
+{1,0},
+{1,0},1,1,0,3,0,3,1,3,0,
+{4,0,
+{0},"",-1,-1,1,0,""},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{10,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},0,
+{1,0},
+{3,4,
+{0}
+},
+{7,3,0,1,100},0,0,0,2},
+{0,0,0},1,
+{21,
+{130,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},8,"СтроитьПолнуюИерархиюКонтекстноеМеню",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{1,1},0,1,0,0,0,3,3},1,
+{"Pattern"},
+{"Pattern"},"","",
+{0},0,0,1,
+{10,
+{131,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"СтроитьПолнуюИерархиюРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},3,3},1,0,1,
+{10,
+{139,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"ГруппаПоискаРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,0,1,
+{10,
+{104,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"СтраницаТекстПроцедурыРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,0,1,
+{10,
+{98,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{0,
+{0,
+{"B",1},0}
+},0,"СтраницыФормыРасширеннаяПодсказка",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},"","",1,
+{21,
+{0},0,0,0,7,"Navigator",
+{1,0},
+{1,0},0,1,0,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},0,0,1,0,1,
+{10,
+{0},0,0,0,0,"NavigatorExtendedTooltip",
+{1,0},
+{1,0},1,0,0,2,2,
+{3,4,
+{0}
+},
+{7,3,0,1,100},
+{0,0,0},1,
+{5,0,0,3,0,
+{0,0,0},
+{3,4,
+{0}
+},
+{3,4,
+{0}
+},
+{3,0,
+{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
+},0,1,2,
+{1,
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,"",2,0,0,0,0,0,3,3,0,0,2},"
+// РежимОткрытияФормыЖурнала может принимать следующие значения
+// ПоследовательностьШагов - добавление последовательности шагов в сценарий
+// ЖурналДействий - создание шага с текстом журнала действий
+// ТекстПроцедуры - создание шага с текстом процедуры
+
+
+#Область Переменные
+
+&НаКлиенте
+Перем СцТ_ГлавнаяФорма Экспорт;
+
+// Переменная для хранения указателя на тестируемое приложение
+&НаКлиенте
+Перем СцТ_Контроллер Экспорт;
+
+&НаКлиенте
+Перем ВызвавшаяФорма Экспорт;
+
+// Переменная для преобразования журнала в процедуру
+&НаСервере
+Перем СозданныеВОкнеИФормеПеременные;
+
+// Переменная для преобразования журнала в процедуру
+&НаСервере
+Перем Отступ;
+
+#КонецОбласти
+
+
+#Область ЭкспортныеПроцедурыИФункции
+
+&НаКлиенте
+Процедура ОтработатьДоступностьКонтроллера() Экспорт
+	
+	Если СцТ_Контроллер = Неопределено Тогда
+		Элементы.ЖурналНачатьЗапись.Доступность = Ложь;
+		ТекстПредупреждения = НСтр(""ru = 'Нет сведений о тестируемом приложении. Запись интерактивных действий невозможна'"");
+		ПоказатьПредупреждение(, ТекстПредупреждения);
+	Иначе
+		Элементы.ЖурналНачатьЗапись.Доступность = Истина;
+	КонецЕсли;
+	
+КонецПроцедуры
+
+#КонецОбласти
+
+#Область ОбработчикиСобытийФормы
+
+&НаСервере
+Процедура ПриСозданииНаСервере(Отказ, СтандартнаяОбработка)
+	
+	Если Параметры.Свойство(""АвтоТест"") Тогда
+		Возврат;
+	КонецЕсли;
+	
+	Если Параметры.РежимСовместимости838 Тогда
+		УстановитьДействие(""ПередЗакрытием"", ""ПередЗакрытиеБезРежимаСовместимости"");
+	КонецЕсли;
+	
+	ЭтаОбработка        = РеквизитФормыВЗначение(""Объект"");
+	ПутьКФормам         = ЭтаОбработка.Метаданные().ПолноеИмя() + "".Форма."";
+	СостояниеЗаписи     = ""Ожидание"";
+	
+	РежимОткрытияФормыЖурнала = Параметры.РежимОткрытияФормыЖурнала;
+	
+	Если РежимОткрытияФормыЖурнала = ""ПоследовательностьШагов"" Тогда
+		Элементы.СтраницаПоследовательностьШагов.Доступность = Истина;
+		Элементы.СтраницаТекстПроцедуры.Доступность          = Ложь;
+		Заголовок = НСтр(""ru = 'Добавление шагов из журнала'"");
+		
+	ИначеЕсли РежимОткрытияФормыЖурнала = ""ЖурналДействий"" Тогда
+		Элементы.СтраницаПоследовательностьШагов.Доступность = Ложь;
+		Элементы.СтраницаТекстПроцедуры.Доступность          = Ложь;
+		Заголовок = НСтр(""ru = 'Добавление журнала действий'"");
+		
+		ПереданныйТекст = """";
+		Если Параметры.Свойство(""ТекстЖурнала"", ПереданныйТекст) Тогда
+			ТекстЖурнала.УстановитьТекст(ПереданныйТекст);
+		КонецЕсли;
+		
+	ИначеЕсли РежимОткрытияФормыЖурнала = ""ТекстПроцедуры"" Тогда
+		Элементы.СтраницаПоследовательностьШагов.Доступность = Ложь;
+		Элементы.СтраницаТекстПроцедуры.Доступность          = Истина;
+		Заголовок = НСтр(""ru = 'Добавление текста процедуры на основе журнала действий'"");
+		
+	КонецЕсли;
+	
+	СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ОбработкаОповещения(ИмяСобытия, Параметр, Источник)
+	
+	Если ИмяСобытия = ""СцТ_ПринудительноеЗакрытиеВсехФормОбработки"" Тогда
+		Модифицированность = Ложь;
+		Закрыть();
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ПередЗакрытием(Отказ, СтандартнаяОбработка)
+	
+	Если СостояниеЗаписи <> ""Ожидание"" Тогда
+		Отказ = Истина;
+		ОписаниеОповещения = Новый ОписаниеОповещения(""СцТ_ОтменитьЗаписьЖурналаИЗакрытьФорму"", ЭтотОбъект);
+		ПоказатьВопрос(ОписаниеОповещения,
+			НСтр(""ru = 'Отменить запись журнала?'""),
+			РежимДиалогаВопрос.ДаНет);
+	КонецЕсли;
+	
+	Если Модифицированность Тогда
+		
+		// Проверка, что есть несохраненные данные
+		Если РежимОткрытияФормыЖурнала = ""ПоследовательностьШагов""
+			И  ШагиДерево.ПолучитьЭлементы().Количество() > 0 Тогда
+			
+			ТекстВопроса = НСтр(""ru = 'Добавить шаги в дерево?'"");
+			
+		ИначеЕсли РежимОткрытияФормыЖурнала = ""ЖурналДействий""
+			И НЕ ПустаяСтрока(ТекстЖурнала.ПолучитьТекст()) Тогда
+			
+			ТекстВопроса = НСтр(""ru = 'Добавить текст журнала действий?'"");
+			
+			
+		ИначеЕсли РежимОткрытияФормыЖурнала = ""ТекстПроцедуры""
+			И НЕ ПустаяСтрока(ТекстПрограммы) Тогда
+			
+			ТекстВопроса = НСтр(""ru = 'Добавить текст процедуры?'"");
+			
+		Иначе
+			ТекстВопроса = """";
+			
+		КонецЕсли;
+		
+		Если ПустаяСтрока(ТекстВопроса) Тогда
+			// Сохранять нечего - закрытие
+			Модифицированность = Ложь;
+			
+		Иначе
+			ОбработчикОповещения = Новый ОписаниеОповещения(""СцТ_ОбработчикОтветаНаВопросОЗакрытииОкна"", ЭтотОбъект);
+			ПоказатьВопрос(ОбработчикОповещения, ТекстВопроса, РежимДиалогаВопрос.ДаНетОтмена, 0);
+			Отказ = Истина;
+			
+		КонецЕсли;
+		
+	КонецЕсли;
+	
+	Если НЕ Отказ Тогда
+		Если СостояниеЗаписи = ""Запись""
+			ИЛИ СостояниеЗаписи = ""Пауза"" Тогда
+			СцТ_Контроллер.ПрерватьЗаписьЖурналаДействийПользователя();
+		КонецЕсли;
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ПередЗакрытиеБезРежимаСовместимости(Отказ, ЗавершениеРаботы, ТекстПредупреждения, СтандартнаяОбработка)
+	
+	Если НЕ ЗавершениеРаботы Тогда
+		
+		Если СостояниеЗаписи <> ""Ожидание"" Тогда
+			Отказ = Истина;
+			ОписаниеОповещения = Новый ОписаниеОповещения(""СцТ_ОтменитьЗаписьЖурналаИЗакрытьФорму"", ЭтотОбъект);
+			ПоказатьВопрос(ОписаниеОповещения,
+				НСтр(""ru = 'Отменить запись журнала?'""),
+				РежимДиалогаВопрос.ДаНет);
+		КонецЕсли;
+		
+		Если Модифицированность Тогда
+			
+			// Проверка, что есть несохраненные данные
+			Если РежимОткрытияФормыЖурнала = ""ПоследовательностьШагов""
+				И  ШагиДерево.ПолучитьЭлементы().Количество() > 0 Тогда
+				
+				ТекстВопроса = НСтр(""ru = 'Добавить шаги в дерево?'"");
+				
+			ИначеЕсли РежимОткрытияФормыЖурнала = ""ЖурналДействий""
+				И НЕ ПустаяСтрока(ТекстЖурнала.ПолучитьТекст()) Тогда
+				
+				ТекстВопроса = НСтр(""ru = 'Добавить текст журнала действий?'"");
+				
+				
+			ИначеЕсли РежимОткрытияФормыЖурнала = ""ТекстПроцедуры""
+				И НЕ ПустаяСтрока(ТекстПрограммы) Тогда
+				
+				ТекстВопроса = НСтр(""ru = 'Добавить текст процедуры?'"");
+				
+			Иначе
+				ТекстВопроса = """";
+				
+			КонецЕсли;
+			
+			Если ПустаяСтрока(ТекстВопроса) Тогда
+				// Сохранять нечего - закрытие
+				Модифицированность = Ложь;
+				
+			Иначе
+				ОбработчикОповещения = Новый ОписаниеОповещения(""СцТ_ОбработчикОтветаНаВопросОЗакрытииОкна"", ЭтотОбъект);
+				ПоказатьВопрос(ОбработчикОповещения, ТекстВопроса, РежимДиалогаВопрос.ДаНетОтмена, 0);
+				Отказ = Истина;
+				
+			КонецЕсли;
+			
+		КонецЕсли;
+	Иначе
+		
+		Если СостояниеЗаписи <> ""Ожидание"" ИЛИ Модифицированность Тогда
+			Отказ = Истина;
+			ТекстПредупреждения = НСтр(""ru = 'Не завершена запись журнала действий пользователя. Все изменения будут утеряны'"");
+		КонецЕсли;
+		
+	КонецЕсли;
+	
+	Если НЕ Отказ Тогда
+		Если СостояниеЗаписи = ""Запись""
+			ИЛИ СостояниеЗаписи = ""Пауза"" Тогда
+			СцТ_Контроллер.ПрерватьЗаписьЖурналаДействийПользователя();
+		КонецЕсли;
+	КонецЕсли;
+	
+КонецПроцедуры
+
+
+
+
+
+#КонецОбласти
+
+
+#Область ОбработчикиОповещений
+
+&НаКлиенте
+Процедура СцТ_ОбработчикОтветаНаВопросОЗакрытииОкна(Результат, ДополнительныеПараметры) Экспорт
+	
+	Если Результат = КодВозвратаДиалога.Да Тогда
+		// Закрытие с сохранением результата
+		ВернутьРезультатИЗакрытьФорму();
+		
+	ИначеЕсли Результат = КодВозвратаДиалога.Нет Тогда
+		// Закрытие окна без сохранения
+		Модифицированность = Ложь;
+		Закрыть();
+		
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_ОтменитьЗаписьЖурналаИЗакрытьФорму(Результат, ДопПараметры) Экспорт
+	
+	Если Результат = КодВозвратаДиалога.Да Тогда
+		СцТ_Контроллер.ПрерватьЗаписьЖурналаДействийПользователя();
+		СостояниеЗаписи    = ""Ожидание"";
+		Модифицированность = Ложь;
+		Закрыть();
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура РезультатОтветаНаВопросОбОбновленииЖурнала(Результат, ДопПараметры) Экспорт
+	
+	Если Результат = КодВозвратаДиалога.Нет Тогда
+		Возврат;
+	КонецЕсли;
+	
+	Если ДопПараметры = ""НачатьЗапись"" Тогда
+		НачатьЗаписьЖурнала();
+	ИначеЕсли ДопПараметры = ""ПрочитатьИзФайла"" Тогда
+		ЧтениеЖурналаИзФайла();
+	КонецЕсли;
+	
+КонецПроцедуры
+
+#КонецОбласти
+
+
+#Область ОбработчикиКоманд
+
+&НаКлиенте
+Процедура ШагиОбновить(Команда)
+	
+	ТекстЖурналаДействийПП = ТекстЖурнала.ПолучитьТекст();
+	
+	Если ПустаяСтрока(ТекстЖурналаДействийПП) Тогда
+		ТекстПредупреждения = НСтр(""ru = 'Журнал действий пользователя не заполнен.
+										 |Запишите действия пользователя или прочитайте журнал из файла и повторите операцию'"");
+		ПоказатьПредупреждение(, ТекстПредупреждения);
+		Возврат;
+	КонецЕсли;
+	
+	СцТ_ПреобразоватьЖурналВИнтерактивныеШаги(ТекстЖурналаДействийПП);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ТекстПроцедурыОбновить(Команда)
+	
+	ТекстДляПреобразования = ТекстЖурнала.ПолучитьТекст();
+
+	ТекстПрограммы = ПреобразоватьНаСервере(ТекстДляПреобразования);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЗаписатьИЗакрыть(Команда)
+	
+	ВернутьРезультатИЗакрытьФорму();
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЖурналНачатьЗапись(Команда)
+	
+	Если НЕ ПустаяСтрока(ТекстЖурнала.ПолучитьТекст()) Тогда
+		ОписаниеОповещения = Новый ОписаниеОповещения(
+			""РезультатОтветаНаВопросОбОбновленииЖурнала"",
+			ЭтотОбъект,
+			""НачатьЗапись"");
+			
+		ЗадатьПользователюВопрос(ОписаниеОповещения);
+	Иначе
+		НачатьЗаписьЖурнала();
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЖурналОстановка(Команда)
+	
+	// Проверка заполненности журнала не нужна
+	// так как она была сделана перед началом записи
+	
+	Если СостояниеЗаписи = ""Запись""
+		ИЛИ СостояниеЗаписи = ""Пауза"" Тогда
+		
+		Попытка
+			ЗаписанныйЖурнал = СцТ_Контроллер.ЗавершитьЗаписьЖурналаДействийПользователя();
+			СостояниеЗаписи = ""Ожидание"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+			
+			//Если ТекстЖурнала.КоличествоСтрок() = 0 Тогда
+				ТекстЖурнала.УстановитьТекст(ЗаписанныйЖурнал);
+			//Иначе
+			//	СуществующийТекст = ТекстЖурнала.ПолучитьТекст();
+			//	ТекстЖурнала.УстановитьТекст(СуществующийТекст + Символы.ПС + ЗаписанныйЖурнал);
+			//КонецЕсли;
+		Исключение
+			ПоказатьПредупреждение(,
+				НСтр(""ru = 'Не удалось остановить запись журнала. Возможно, тестируемое приложение закрыто.'""));
+			СостояниеЗаписи = ""Ожидание"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+			Возврат;
+		КонецПопытки;
+		
+		// В зависимости от назначения формы,
+		// нужно выполнить преобразование и открыть нужную страницу
+		
+		Если РежимОткрытияФормыЖурнала = ""ПоследовательностьШагов"" Тогда
+			СцТ_ПреобразоватьЖурналВИнтерактивныеШаги(ТекстЖурнала.ПолучитьТекст());
+			Элементы.СтраницыФормы.ТекущаяСтраница = Элементы.СтраницаПоследовательностьШагов;
+			
+		ИначеЕсли РежимОткрытияФормыЖурнала = ""ЖурналДействий"" Тогда
+			// Ничего делать не нужно. Все уже сделано
+			
+			
+		ИначеЕсли РежимОткрытияФормыЖурнала = ""ТекстПроцедуры"" Тогда
+			
+			ТекстДляПреобразования = ТекстЖурнала.ПолучитьТекст();
+			ТекстПрограммы = ПреобразоватьНаСервере(ТекстДляПреобразования);
+			
+			Элементы.СтраницыФормы.ТекущаяСтраница = Элементы.СтраницаТекстПроцедуры;
+			
+			
+			// Других вариантов нет
+			
+		КонецЕсли;
+		
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЖурналПауза(Команда)
+	
+	// Проверка заполненности журнала не нужна
+	// так как она была сделана перед началом записи
+	
+	Если СостояниеЗаписи = ""Запись"" Тогда
+		Попытка
+			СцТ_Контроллер.ПриостановитьЗаписьЖурналаДействийПользователя();
+			СостояниеЗаписи = ""Пауза"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		Исключение
+			ПоказатьПредупреждение(,
+				НСтр(""ru = 'Не удалось приостановить запись журнала. Возможно, тестируемое приложение закрыто.'""));
+			СостояниеЗаписи = ""Ожидание"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		КонецПопытки;
+	ИначеЕсли СостояниеЗаписи = ""Пауза"" Тогда
+		Попытка
+			СцТ_Контроллер.ПродолжитьЗаписьЖурналаДействийПользователя();
+			СостояниеЗаписи = ""Запись"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		Исключение
+			ПоказатьПредупреждение(,
+				НСтр(""ru = 'Не удалось продолжить запись журнала. Возможно, тестируемое приложение закрыто.'""));
+			СостояниеЗаписи = ""Ожидание"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		КонецПопытки;
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЖурналПрочитатьИзФайла(Команда)
+	
+	Если НЕ ПустаяСтрока(ТекстЖурнала.ПолучитьТекст()) Тогда
+		ОписаниеОповещения = Новый ОписаниеОповещения(
+			""РезультатОтветаНаВопросОбОбновленииЖурнала"",
+			ЭтотОбъект,
+			""ПрочитатьИзФайла"");
+			
+		ЗадатьПользователюВопрос(ОписаниеОповещения);
+	Иначе
+		ЧтениеЖурналаИзФайла();
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЖурналСохранитьВФайл(Команда)
+	
+	Если ПустаяСтрока(ТекстЖурнала.ПолучитьТекст()) Тогда
+		ТекстПредупреждения = НСтр(""ru = 'Журнал пустой. Заполните журнал и повторите попытку'"");
+		ПоказатьПредупреждение(, ТекстПредупреждения);
+		Возврат;
+	КонецЕсли;
+	
+	ВыборФайла = Новый ДиалогВыбораФайла(РежимДиалогаВыбораФайла.Сохранение);
+	
+	ВыборФайла.Заголовок  = НСтр(""ru='Запись файла журнала действий пользователя'"");
+	ВыборФайла.Фильтр     = НСтр(""ru='Текстовые файлы (*.txt)|*.txt|Файлы XML (*.xml)|*.xml|Все файлы (*.*)|*.*'"");
+	ВыборФайла.Расширение = ""txt"";
+	
+	Если ВыборФайла.Выбрать() Тогда
+		ПолноеИмяФайла = ВыборФайла.ПолноеИмяФайла;
+		Попытка
+			ТекстЖурнала.Записать(ПолноеИмяФайла);
+		Исключение
+			ТекстПредупреждения = НСтр(""ru = 'Не удалось записать файл %1'"");
+			ТекстПредупреждения = СтрЗаменить(ТекстПредупреждения, ""%1"", ПолноеИмяФайла);
+			ПоказатьПредупреждение(, ТекстПредупреждения);
+		КонецПопытки;
+	КонецЕсли;
+	
+КонецПроцедуры
+
+
+#КонецОбласти
+
+#Область СобытийЭлементовФормы
+
+&НаКлиенте
+Процедура ШагиДеревоПередНачаломДобавления(Элемент, Отказ, Копирование, Родитель, Группа)
+	
+	Отказ = Истина;
+	
+КонецПроцедуры
+
+
+#КонецОбласти
+
+
+#Область ДополнительныеПроцедурыИФункции
+
+#Область ОбработчикиКомандИЭлементовФормы
+
+&НаКлиенте
+Процедура НачатьЗаписьЖурнала()
+	
+	Если СостояниеЗаписи = ""Ожидание"" Тогда
+		Попытка
+			СцТ_Контроллер.НачатьЗаписьЖурналаДействийПользователя();
+			СостояниеЗаписи = ""Запись"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		Исключение
+			ПоказатьПредупреждение(,
+				НСтр(""ru = 'Не удалось начать запись журнала. Возможно, тестируемое приложение закрыто.'""));
+			СостояниеЗаписи = ""Ожидание"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		КонецПопытки;
+	ИначеЕсли СостояниеЗаписи = ""Пауза"" Тогда
+		Попытка
+			СцТ_Контроллер.ПродолжитьЗаписьЖурналаДействийПользователя();
+			СостояниеЗаписи = ""Запись"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		Исключение
+			ПоказатьПредупреждение(,
+				НСтр(""ru = 'Не удалось продолжить запись журнала. Возможно, тестируемое приложение закрыто.'""));
+			СостояниеЗаписи = ""Ожидание"";
+			СцТ_НастроитьОтображениеЭлементов(ЭтаФорма);
+		КонецПопытки;
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЗадатьПользователюВопрос(ОписаниеОповещения)
+	
+	ТекстВопроса = НСтр(""ru = 'Журнал не пустой. Существующий журнал будет заменен новым. Продолжить?'"");
+	ПоказатьВопрос(ОписаниеОповещения, ТекстВопроса, РежимДиалогаВопрос.ДаНет);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ЧтениеЖурналаИзФайла()
+	
+	ВыборФайла = Новый ДиалогВыбораФайла(РежимДиалогаВыбораФайла.Открытие);
+	
+	ВыборФайла.Заголовок  = НСтр(""ru='Выбор файла журнала действий пользователя'"");
+	ВыборФайла.Фильтр     = НСтр(""ru='Файлы журнала (*.txt, *.xml)|*.txt;*.xml|Все файлы (*.*)|*.*'"");
+	ВыборФайла.Расширение = ""txt"";
+	
+	Если ВыборФайла.Выбрать() Тогда
+		ПолноеИмяФайла = ВыборФайла.ПолноеИмяФайла;
+		Попытка
+			ТекстЖурнала.Прочитать(ПолноеИмяФайла); 
+		Исключение
+			ТекстПредупреждения = НСтр(""ru = 'Не удалось прочитать файл %1'"");
+			ТекстПредупреждения = СтрЗаменить(ТекстПредупреждения, ""%1"", ПолноеИмяФайла);
+			ПоказатьПредупреждение(, ТекстПредупреждения);
+			Возврат;
+		КонецПопытки;
+	Иначе
+		Возврат;
+	КонецЕсли;
+	
+	Если РежимОткрытияФормыЖурнала = ""ПоследовательностьШагов"" Тогда
+		СцТ_ПреобразоватьЖурналВИнтерактивныеШаги(ТекстЖурнала.ПолучитьТекст());
+		Элементы.СтраницыФормы.ТекущаяСтраница = Элементы.СтраницаПоследовательностьШагов;
+		
+	ИначеЕсли РежимОткрытияФормыЖурнала = ""ЖурналДействий"" Тогда
+		// Ничего делать не нужно. Все уже сделано
+		
+		
+	ИначеЕсли РежимОткрытияФормыЖурнала = ""ТекстПроцедуры"" Тогда
+		
+		ТекстДляПреобразования = ТекстЖурнала.ПолучитьТекст();
+		ТекстПрограммы = ПреобразоватьНаСервере(ТекстДляПреобразования);
+		
+		Элементы.СтраницыФормы.ТекущаяСтраница = Элементы.СтраницаТекстПроцедуры;
+		
+		
+		// Других вариантов нет
+		
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ВернутьРезультатИЗакрытьФорму()
+	
+	Если РежимОткрытияФормыЖурнала = ""ПоследовательностьШагов"" Тогда
+		
+		Если ШагиДерево.ПолучитьЭлементы().Количество() > 0 Тогда
+			
+			ПараметрыИмпорта = Новый Структура;
+			ПараметрыИмпорта.Вставить(""Дерево""                , ШагиДерево);
+			ПараметрыИмпорта.Вставить(""ЭлементФормы""          , Элементы.ШагиДерево);
+			ПараметрыИмпорта.Вставить(""КомментарийНачала""     , НСтр(""ru = 'Начало записанных интерактивных шагов'""));
+			ПараметрыИмпорта.Вставить(""КомментарийОкончания""  , НСтр(""ru = 'Конец записанных интерактивных шагов'""));
+			ПараметрыИмпорта.Вставить(""ИмяРеквизитаАктивности"", ""Активность"");
+			
+			Оповестить(""СцТ_ИмпортШаговСценария"", ПараметрыИмпорта, ВызвавшаяФорма);
+			
+		КонецЕсли;
+		Модифицированность = Ложь;
+		
+		Закрыть();
+	ИначеЕсли РежимОткрытияФормыЖурнала = ""ЖурналДействий"" Тогда
+		Модифицированность = Ложь;
+		
+		Закрыть(ТекстЖурнала.ПолучитьТекст());
+		
+		
+	ИначеЕсли РежимОткрытияФормыЖурнала = ""ТекстПроцедуры"" Тогда
+		
+		Модифицированность = Ложь;
+		
+		Закрыть(ТекстПрограммы);
+		
+	КонецЕсли;
+	
+	
+	
+КонецПроцедуры
+
+&НаКлиентеНаСервереБезКонтекста
+Процедура СцТ_НастроитьОтображениеЭлементов(УправляемаяФорма)
+	
+	Если УправляемаяФорма.СостояниеЗаписи = ""Ожидание"" Тогда
+		УправляемаяФорма.Элементы.ЖурналНачатьЗапись.Доступность     = Истина;
+		УправляемаяФорма.Элементы.ЖурналПауза.Доступность            = Ложь;
+		УправляемаяФорма.Элементы.ЖурналОстановка.Доступность        = Ложь;
+		УправляемаяФорма.Элементы.ЖурналПрочитатьИзФайла.Доступность = Истина;
+		УправляемаяФорма.Элементы.ЖурналСохранитьВФайл.Доступность   = Истина;
+		
+	ИначеЕсли УправляемаяФорма.СостояниеЗаписи = ""Запись"" Тогда
+		УправляемаяФорма.Элементы.ЖурналНачатьЗапись.Доступность     = Ложь;
+		УправляемаяФорма.Элементы.ЖурналПауза.Доступность            = Истина;
+		УправляемаяФорма.Элементы.ЖурналОстановка.Доступность        = Истина;
+		УправляемаяФорма.Элементы.ЖурналПрочитатьИзФайла.Доступность = Ложь;
+		УправляемаяФорма.Элементы.ЖурналСохранитьВФайл.Доступность   = Ложь;
+		
+		УправляемаяФорма.Элементы.ЖурналНачатьЗапись.Пометка = Истина;
+		УправляемаяФорма.Элементы.ЖурналПауза.Пометка        = Ложь;
+		
+	ИначеЕсли УправляемаяФорма.СостояниеЗаписи = ""Пауза"" Тогда
+		УправляемаяФорма.Элементы.ЖурналНачатьЗапись.Доступность     = Истина;
+		УправляемаяФорма.Элементы.ЖурналПауза.Доступность            = Истина;
+		УправляемаяФорма.Элементы.ЖурналОстановка.Доступность        = Истина;
+		УправляемаяФорма.Элементы.ЖурналПрочитатьИзФайла.Доступность = Ложь;
+		УправляемаяФорма.Элементы.ЖурналСохранитьВФайл.Доступность   = Ложь;
+		
+		УправляемаяФорма.Элементы.ЖурналНачатьЗапись.Пометка = Ложь;
+		УправляемаяФорма.Элементы.ЖурналПауза.Пометка        = Истина;
+		
+	КонецЕсли;
+	
+КонецПроцедуры
+
+#КонецОбласти
+
+
+#Область ПреобразованиеЖурналаДействийВШагиСценария
+
+// ЗАМЕТКИ ПО ПРЕОБРАЗОВАНИЮ:
+
+// После построения дерева шагов:
+// 1) удаляются пустые автогруппы;
+// 2) преобразуются шаги заполнения реквизитов
+//    - если несколько реквизитов заполняются подряд элементарными действиями,
+//      то это записывается одним шагом.
+
+
+
+// Преобразует текст XML в последовательность имен тегов и их атрибутов,
+//	т.к. может потребовать прохождение назад (не только вперед)
+//
+&НаКлиенте
+Функция СцТ_ПреобразоватьЖурналВПоследовательность(ЖурналТекст)
+	
+	#Если НЕ ВебКлиент Тогда
+	
+	ЧтениеXML = Новый ЧтениеXML;
+	ЧтениеXML.УстановитьСтроку(ЖурналТекст);
+	ЧтениеXML.Прочитать(); // Прочитать узел <uilog>
+	ТекущийНомерТега = 1;
+	
+	Результат = Новый Массив;
+	
+	Пока ЧтениеXML.Прочитать() Цикл
+		
+		ИмяУзла = ВРег(СокрЛП(ЧтениеXML.Имя));
+		Если ЧтениеXML.ТипУзла = ТипУзлаXML.НачалоЭлемента Тогда
+			
+			ТекущийНомерТега = ТекущийНомерТега + 1;
+			
+			АтрибутыУзла = СцТ_ГлавнаяФорма.СцТ_АтрибутыУзла(ЧтениеXML);
+			
+			ОписательУзла = Новый Структура(""ТипУзла,Имя,Атрибуты,НомерУзла"",
+											0, // Начало элемента
+											ИмяУзла,
+											АтрибутыУзла,
+											ТекущийНомерТега);
+			
+			Результат.Добавить(ОписательУзла);
+			
+		ИначеЕсли ЧтениеXML.ТипУзла = ТипУзлаXML.КонецЭлемента И ИмяУзла <> ""UILOG"" Тогда
+			
+			ОписательУзла = Новый Структура(""ТипУзла,Имя,Атрибуты,НомерУзла"",
+											1, // Конец элемента
+											ИмяУзла,
+											Неопределено,
+											0);
+			
+			Результат.Добавить(ОписательУзла);
+			
+		КонецЕсли;
+		
+	КонецЦикла;
+	
+	ЧтениеXML.Закрыть();
+	
+	Для каждого Узел Из ШагиДерево.ПолучитьЭлементы() Цикл
+		Элементы.ШагиДерево.Развернуть(Узел.ПолучитьИдентификатор(), Истина);
+	КонецЦикла;
+	
+	Возврат Результат;
+	
+	#КонецЕсли
+	
+КонецФункции
+
+&НаКлиенте
+Процедура СцТ_ПреобразоватьЖурналВИнтерактивныеШаги(Знач ЖурналДействийПользователя)
+	
+	ШагиДерево.ПолучитьЭлементы().Очистить();
+	ТекущийУзелГруппы = ШагиДерево;
+	
+	// Необходимо преобразовать последовательность тегов xml в массив тегов, чтобы
+	// было возможным двигаться назад и вперед по xml-документу, т.к. это необходимо
+	// при анализе некоторых дейтсвий
+	
+	ПоследовательнотьДействий = СцТ_ПреобразоватьЖурналВПоследовательность(ЖурналДействийПользователя);
+	ИндексТекущегоДействия    = 0;
+	КоличествоДействий        = ПоследовательнотьДействий.Количество();
+	
+	СтекОписателейОбъектов = Новый Массив;
+	
+	Пока ИндексТекущегоДействия < КоличествоДействий Цикл
+		
+		ТекущийУзелЖурнала = ПоследовательнотьДействий[ИндексТекущегоДействия];
+		
+		Если ТекущийУзелЖурнала.ТипУзла = 0 Тогда
+			
+			Если СцТ_ГлавнаяФорма.СцТ_УзелОписываетОбъектТестируемогоПриложения(ТекущийУзелЖурнала.Имя) Тогда
+				
+				СцТ_ДобавитьОписательОбъектаВСтек(
+					ТекущийУзелЖурнала.Имя,
+					ТекущийУзелЖурнала.Атрибуты,
+					СтекОписателейОбъектов);
+				
+				ТекущийУзелГруппы = СцТ_ДобавитьУзелИнтерактивнойАвтоГруппы(
+					ТекущийУзелЖурнала.Имя,
+					ТекущийУзелЖурнала.Атрибуты,
+					ТекущийУзелГруппы,
+					СтекОписателейОбъектов);
+				
+			Иначе
+				
+				СцТ_ДобавитьИнтерактивныйШаг(
+					ТекущийУзелЖурнала.Имя,
+					ТекущийУзелЖурнала.Атрибуты,
+					СтекОписателейОбъектов,
+					ТекущийУзелГруппы,
+					ПоследовательнотьДействий,
+					ИндексТекущегоДействия,
+					КоличествоДействий);
+				
+			КонецЕсли;
+			
+		ИначеЕсли ТекущийУзелЖурнала.ТипУзла = 1 Тогда
+			
+			Если СцТ_ГлавнаяФорма.СцТ_УзелОписываетОбъектТестируемогоПриложения(ТекущийУзелЖурнала.Имя) Тогда
+				СцТ_УдалитьОписательОбъектаИзСтека(СтекОписателейОбъектов);
+			КонецЕсли;
+			
+			Если ТекущийУзелЖурнала.Имя = ""FORM"" ИЛИ ТекущийУзелЖурнала.Имя = ""FORMTABLE"" Тогда
+				Попытка
+					ТекущийУзелГруппы = ТекущийУзелГруппы.ПолучитьРодителя();
+					Если ТекущийУзелГруппы = Неопределено Тогда
+						ТекущийУзелГруппы = ШагиДерево;
+					КонецЕсли;
+				Исключение
+				КонецПопытки;
+			КонецЕсли;
+			
+		КонецЕсли;
+		
+		ИндексТекущегоДействия = ИндексТекущегоДействия + 1;
+		
+	КонецЦикла;
+	
+	ПустыеАвтоГруппы = Новый Массив;
+	СцТ_ДоработатьШагиЗаполненияРеквизитов(ШагиДерево);
+	
+	СцТ_УдалитьПустыеАвтоГруппы(ШагиДерево);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_ДобавитьОписательОбъектаВСтек(ИмяУзла, АтрибутыУзла, СтекОписателейОбъектов)
+	
+	Если ИмяУзла = ""CLIENTAPPLICATIONWINDOW"" Тогда
+		ЗаголовокОбъекта = Строка(АтрибутыУзла[""CAPTION""]);
+	Иначе
+		ЗаголовокОбъекта = Строка(АтрибутыУзла[""TITLE""]);
+	КонецЕсли;
+	
+	ОписательОбъекта = Новый Структура(""ТипОбъекта,Заголовок,Имя,ДополнительноеСвойство"",
+									   ИмяУзла, ЗаголовокОбъекта, Строка(АтрибутыУзла[""NAME""]));
+	
+	Если ИмяУзла = ""CLIENTAPPLICATIONWINDOW"" Тогда
+		// Определить, является ли окно основным
+		ОписательОбъекта.ДополнительноеСвойство = (ВРег(СокрЛП(Строка(АтрибутыУзла[""ISMAIN""]))) = ""TRUE"");
+		ОписательОбъекта.Вставить(""ПДАФ"", Неопределено); // Последняя добавленная автогруппа формы
+	КонецЕсли;
+	
+	СтекОписателейОбъектов.Добавить(ОписательОбъекта);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Функция СцТ_УдалитьОписательОбъектаИзСтека(СтекОписателейОбъектов)
+	
+	Если СтекОписателейОбъектов.Количество() > 0 Тогда
+		СтекОписателейОбъектов.Удалить(СтекОписателейОбъектов.ВГраница());
+	КонецЕсли;
+	
+КонецФункции
+
+&НаКлиенте
+Функция СцТ_ПолучитьПутьОбъектаИзСтека(СтекОписателейОбъектов)
+	
+	// Примечание:
+	// - для дочерних элементов формы путь записывается относительно формы (без самой формы);
+	// - для дочерних элементов таблицы (колонки, кнопки) путь записывается
+	//   относительно таблицы формы (без таблицы).
+	// - для дочерних объектов командного интерфейса путь записывается относительно
+	//   самого командного интерфейса
+	
+	Результат = Новый Массив;
+	
+	// Сначала в стеке отыскивается самый верхний объект автогруппы -
+	// форма или таблица формы
+	КоличествоЭлементовВСтеке = СтекОписателейОбъектов.Количество();
+	Для ОбратныйИндекс = 1 По КоличествоЭлементовВСтеке Цикл
+		
+		ИндекстТекущегоОбъекта = КоличествоЭлементовВСтеке - ОбратныйИндекс;
+		ОписательОбъекта = СтекОписателейОбъектов[ИндекстТекущегоОбъекта];
+		Если (ОписательОбъекта.ТипОбъекта = ""FORM""
+			ИЛИ ОписательОбъекта.ТипОбъекта = ""FORMTABLE""
+			ИЛИ ОписательОбъекта.ТипОбъекта = ""COMMANDINTERFACE"")
+				И ОбратныйИндекс <> 1 Тогда
+			
+			ИндексОбъектаАвтоГруппы = ИндекстТекущегоОбъекта;
+			Прервать;
+			
+		КонецЕсли;
+		
+	КонецЦикла;
+	
+	Для Итератор = ИндексОбъектаАвтоГруппы + 1 По КоличествоЭлементовВСтеке - 1 Цикл
+		
+		ОписательОбъекта = СтекОписателейОбъектов[Итератор];
+		ОписательЭлементаПути = Новый Структура;
+		
+		Если ОписательОбъекта.ТипОбъекта = ""FORMFIELD"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 3);
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMGROUP"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 4);
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMTABLE"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 7);
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMBUTTON"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 5);
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMDECORATION"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 6);
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""COMMANDINTERFACEGROUP"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 9);
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""COMMANDINTERFACEBUTTON"" Тогда
+			ОписательЭлементаПути.Вставить(""Тип"", 10);
+		Иначе
+			ОписательЭлементаПути.Вставить(""Тип"", -1);
+		КонецЕсли;
+		
+		ОписательЭлементаПути.Вставить(""Имя"",
+			?(ПустаяСтрока(ОписательОбъекта.Имя),
+			""$"" + ОписательОбъекта.Заголовок,
+			ОписательОбъекта.Имя));
+		Если ОписательЭлементаПути.Имя = ""$"" И НЕ ПустаяСтрока(ОписательОбъекта.Имя) Тогда
+			// Если заголовка нет (например, для командной панели формы)
+			ОписательЭлементаПути.Имя = ОписательОбъекта.Имя;
+		КонецЕсли;
+		
+		ОписательЭлементаПути.Вставить(""Заголовок"", ОписательОбъекта.Заголовок);
+		
+		Результат.Добавить(ОписательЭлементаПути);
+		
+	КонецЦикла;
+	
+	Возврат Результат;
+	
+КонецФункции
+
+&НаКлиенте
+Процедура СцТ_ДоработатьШагиЗаполненияРеквизитов(УзелДереваШагов)
+	
+	Для каждого УзелШага Из УзелДереваШагов.ПолучитьЭлементы() Цикл
+		
+		СцТ_ДоработатьШагиЗаполненияРеквизитов(УзелШага);
+		
+		Если УзелШага.ТипШага <> ""TmpЗаполнениеРеквизитов"" Тогда
+			Продолжить;
+		КонецЕсли;
+		
+		УзелРеквизитов = УзелШага.Значение.ПолучитьЭлементы().Получить(0);
+		УзелРодителя = УзелШага.ПолучитьРодителя();
+		Если УзелРодителя.ТипШага = ""ИнтерактивнаяАвтоГруппа"" Тогда
+			Если УзелРеквизитов.ПолучитьЭлементы().Количество() = 1 Тогда
+				УзелШага.ТипШага = ""ЗаполнитьОдинРеквизитФормы"";
+				УзелРеквизитов.Имя = ""РеквизитФормы"";
+			Иначе
+				УзелШага.ТипШага = ""ЗаполнитьРеквизитыФормы"";
+				УзелРеквизитов.Имя = ""Реквизиты"";
+			КонецЕсли;
+		Иначе //Если УзелРодителя.ТипШага = ""АвтоГруппаТаблицаФормы"" Тогда
+			Если УзелРеквизитов.ПолучитьЭлементы().Количество() = 1 Тогда
+				УзелШага.ТипШага = ""ЗаполнитьКолонкуТаблицы"";
+				УзелРеквизитов.Имя = ""РеквизитФормы"";
+			Иначе
+				УзелШага.ТипШага = ""ЗаполнитьСтрокуТаблицы"";
+				УзелРеквизитов.Имя = ""Реквизиты"";
+			КонецЕсли;
+		КонецЕсли;
+		
+		// Формирование наименования шага
+		Если УзелШага.ТипШага = ""ЗаполнитьРеквизитыФормы"" Тогда
+			УзелШага.Наименование = НСтр(""ru = 'Все поля формы'"");
+			УзелШага.Автоописание = НСтр(""ru = 'Действия с полями формы:'"");
+		ИначеЕсли УзелШага.ТипШага = ""ЗаполнитьСтрокуТаблицы"" Тогда
+			УзелШага.Наименование = НСтр(""ru = 'Все ячейки текущей строки'"");
+			УзелШага.Автоописание = НСтр(""ru = 'Действия с ячейками текущей строки:'"");
+		Иначе
+			
+			УзелРеквизита = УзелРеквизитов.ПолучитьЭлементы().Получить(0);
+			УзелШага.Наименование = УзелРеквизита.Представление
+				+ "": ""
+				+ СцТ_ГлавнаяФорма.СцТ_НачатьСоСтрочногоСимвола(
+					СцТ_ГлавнаяФорма.СцТ_ПолучитьПредставлениеДействияСПолемФормы(УзелРеквизита.Действие))
+				+ ?(УзелРеквизита.Действие = ""ПерейтиКДате"" ИЛИ УзелРеквизита.Действие = ""УстановитьОтметку"",
+					"" """""" + УзелРеквизита.Значение + """""""",
+					"""");
+			
+			УзелШага.АвтоОписание = УзелРеквизита.Представление
+				+ "": ""
+				+ СцТ_ГлавнаяФорма.СцТ_НачатьСоСтрочногоСимвола(
+					СцТ_ГлавнаяФорма.СцТ_ПолучитьПредставлениеДействияСПолемФормы(УзелРеквизита.Действие))
+				+ ?(УзелРеквизита.Действие <> ""Открыть""
+						И УзелРеквизита.Действие <> ""Очистить""
+						И УзелРеквизита.Действие <> ""ПерейтиНаГодВперед""
+						И УзелРеквизита.Действие <> ""ПерейтиНаГодНазад""
+						И УзелРеквизита.Действие <> ""ПерейтиНаМесяцВперед""
+						И УзелРеквизита.Действие <> ""ПерейтиНаМесяцНазад""
+						И УзелРеквизита.Действие <> ""УвеличитьЗначение""
+						И УзелРеквизита.Действие <> ""УменьшитьЗначение"",
+					"" """""" + УзелРеквизита.Значение + """""""",
+					"""");
+			
+		КонецЕсли;
+		
+		Если УзелШага.ТипШага = ""ЗаполнитьРеквизитыФормы"" ИЛИ УзелШага.ТипШага = ""ЗаполнитьСтрокуТаблицы"" Тогда
+			
+			Для каждого УзелРеквизита Из УзелРеквизитов.ПолучитьЭлементы() Цикл
+				
+				ОписаниеРеквизита = УзелРеквизита.Представление
+					+
+					"": ""
+					+ СцТ_ГлавнаяФорма.СцТ_НачатьСоСтрочногоСимвола(
+						СцТ_ГлавнаяФорма.СцТ_ПолучитьПредставлениеДействияСПолемФормы(УзелРеквизита.Действие))
+					+ ?(УзелРеквизита.Действие <> ""Открыть""
+						И УзелРеквизита.Действие <> ""Очистить""
+						И УзелРеквизита.Действие <> ""ПерейтиНаГодВперед""
+						И УзелРеквизита.Действие <> ""ПерейтиНаГодНазад""
+						И УзелРеквизита.Действие <> ""ПерейтиНаМесяцВперед""
+						И УзелРеквизита.Действие <> ""ПерейтиНаМесяцНазад""
+						И УзелРеквизита.Действие <> ""УвеличитьЗначение""
+						И УзелРеквизита.Действие <> ""УменьшитьЗначение"",
+						"" """""" + УзелРеквизита.Значение + """""""",
+						"""");
+				
+				УзелШага.АвтоОписание = УзелШага.АвтоОписание + Символы.ПС + ОписаниеРеквизита;
+				
+			КонецЦикла;
+			
+		КонецЕсли;
+		
+	КонецЦикла;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_ДобавитьИнтерактивныйШаг(
+	ИмяКоманды,
+	Атрибуты,
+	СтекОписателейОбъектов,
+	ТекущийУзелГруппы,
+	ПоследовательнотьДействий,
+	ИндексТекущегоДействия,
+	КоличествоДействий)
+	
+	Если СтекОписателейОбъектов.Количество() = 0 Тогда
+		Возврат;
+	КонецЕсли;
+	
+	// Объект, для которого выполнятся действие
+	ОписательОбъекта = СтекОписателейОбъектов[СтекОписателейОбъектов.ВГраница()];
+	
+	Если ИмяКоманды = ""ACTIVATE"" Тогда // Нужные элементы активизируются автоматически
+		Возврат;
+	
+	ИначеЕсли ИмяКоманды = ""CLOSE"" И ОписательОбъекта.ТипОбъекта = ""CLIENTAPPLICATIONWINDOW"" Тогда
+		
+		Если ОписательОбъекта.ДополнительноеСвойство = Истина Тогда
+			
+			Новыйшаг = ТекущийУзелГруппы.ПолучитьЭлементы().Добавить();
+			Новыйшаг.ТипШага      = ""ЗавершитьРаботуТестируемогоКлиента"";
+			Новыйшаг.Активность   = Истина;
+			Новыйшаг.Наименование = НСтр(""ru = 'Закрыть тестируемое приложение'"");
+			Новыйшаг.Автоописание = НСтр(""ru = 'Закрыть главное окно тестируемого приложения.'"");
+			
+		Иначе
+			
+			// Закрытие текущего окна формы
+			
+			Если ОписательОбъекта.ПДАФ <> Неопределено Тогда
+				
+				УзелИнтерактивнойГруппы = ОписательОбъекта.ПДАФ;
+				
+			Иначе
+				
+				// Если нет автогруппы формы, тогда создать автогруппу формы
+				
+				АтрибутыИнтерактивнойФормы = Новый Соответствие;
+				АтрибутыИнтерактивнойФормы[""TITLE""] = ОписательОбъекта.Заголовок;
+				УзелИнтерактивнойГруппы = СцТ_ДобавитьУзелИнтерактивнойАвтоГруппы(
+					""FORM"",
+					АтрибутыИнтерактивнойФормы,
+					ТекущийУзелГруппы,
+					СтекОписателейОбъектов,
+					Истина);
+				
+			КонецЕсли;
+			
+			Новыйшаг = УзелИнтерактивнойГруппы.ПолучитьЭлементы().Добавить();
+			НовыйШаг.ТипШага      = ""ЗакрытьКлиентскоеОкноФормы"";
+			НовыйШаг.Наименование = НСтр(""ru = 'Закрыть окно текущей формы'"");
+			НовыйШаг.Автоописание = НСтр(""ru = 'Закрыть окно, в котором располагается текущая форма'"");
+			
+			НовыйШаг.Описание         = """";
+			НовыйШаг.Активность       = Истина;
+			НовыйШаг.ВыполнитьВручную = 0;
+			
+		КонецЕсли;
+		
+	ИначеЕсли ИмяКоманды = ""EXECUTECOMMAND"" Тогда
+		СцТ_ДобавитьШаг_ВыполнитьИнтерактивнуюКоманду(Строка(Атрибуты[""URL""]), ТекущийУзелГруппы);
+		
+	ИначеЕсли (ИмяКоманды = ""CLEAR""
+		ИЛИ ИмяКоманды = ""INCREASEVALUE""
+		ИЛИ ИмяКоманды = ""DECREASEVALUE""
+		ИЛИ ИмяКоманды = ""STARTCHOOSING""
+		ИЛИ ИмяКоманды = ""STARTCHOOSINGFROMCHOICELIST""
+		ИЛИ ИмяКоманды = ""EXECUTECHOICEFROMCHOICELIST""
+		ИЛИ ИмяКоманды = ""OPEN""
+		ИЛИ ИмяКоманды = ""GOTONEXTMONTH""
+		ИЛИ ИмяКоманды = ""GOTOPREVIOUSMONTH""
+		ИЛИ ИмяКоманды = ""GOTONEXTYEAR""
+		ИЛИ ИмяКоманды = ""GOTOPREVIOUSYEAR""
+		ИЛИ ИмяКоманды = ""INPUTTEXT""
+		ИЛИ ИмяКоманды = ""SELECTOPTION""
+		ИЛИ ИмяКоманды = ""GOTODATE"")
+		И ОписательОбъекта.ТипОбъекта = ""FORMFIELD"" Тогда
+		
+		СцТ_ДобавитьШагДействияНадРеквизитом(
+			ИмяКоманды,
+			Атрибуты,
+			ОписательОбъекта,
+			ТекущийУзелГруппы,
+			ПоследовательнотьДействий,
+			ИндексТекущегоДействия,
+			КоличествоДействий,
+			СтекОписателейОбъектов);
+		
+	ИначеЕсли ИмяКоманды = ""CLICK"" ИЛИ ИмяКоманды = ""SETCHECK""Тогда
+		
+		СцТ_ДобавитьШаг_Нажать(ТекущийУзелГруппы, ОписательОбъекта, ИмяКоманды, СтекОписателейОбъектов);
+		
+	ИначеЕсли (ИмяКоманды = ""GOONELEVELUP""
+		ИЛИ ИмяКоманды = ""GOONELEVELDOWN""
+		ИЛИ ИмяКоманды = ""GOTONEXTROW""
+		ИЛИ ИмяКоманды = ""GOTOPREVIOUSROW""
+		ИЛИ ИмяКоманды = ""GOTOFIRSTROW""
+		ИЛИ ИмяКоманды = ""GOTOLASTROW""
+		ИЛИ ИмяКоманды = ""CHANGEROW""
+		ИЛИ ИмяКоманды = ""ENDEDITROW""
+		ИЛИ ИмяКоманды = ""ADDROW""
+		ИЛИ ИмяКоманды = ""DELETEROW""
+		ИЛИ ИмяКоманды = ""EXPAND""
+		ИЛИ ИмяКоманды = ""COLLAPSE""
+		ИЛИ ИмяКоманды = ""CHOOSE""
+		ИЛИ ИмяКоманды = ""GOTONEXTITEM""
+		ИЛИ ИмяКоманды = ""GOTOPREVIOUSITEM"")
+		И ОписательОбъекта.ТипОбъекта = ""FORMTABLE"" Тогда
+		// Это действие с таблицей формы
+		
+		СцТ_ДобавитьШаг_ДействиеСТаблицей(ИмяКоманды, ТекущийУзелГруппы);
+		
+	ИначеЕсли ИмяКоманды = ""GOTOROW""
+		И ОписательОбъекта.ТипОбъекта = ""FORMTABLE"" Тогда
+		
+		Направление = ВРег(СокрЛП(Строка(Атрибуты[""DIRECTION""])));
+		Если Направление <> ""UP"" И Направление <> ""DOWN"" Тогда
+			Возврат; // Направление перехода задано неверно
+		КонецЕсли;
+		
+		НовыйШаг = ТекущийУзелГруппы.ПолучитьЭлементы().Добавить();
+		Новыйшаг.ТипШага    = ""НайтиСтрокуТаблицы"";
+		НовыйШаг.Активность = 1;
+		
+		НовыйШаг.Наименование = НСтр(""ru = 'Найти строку таблицы'"");
+		НовыйШаг.Автоописание = НСтр(""ru = 'Найти строку таблицы и сделать ее текущей.
+									 |Область поиска: %1.'"");
+		
+		НовыйШаг.Автоописание = СтрЗаменить(НовыйШаг.Автоописание,
+			""%1"",
+			?(Направление = ""UP"",
+			  НСтр(""ru = 'от текущей строки вверх'""),
+			  НСтр(""ru = 'от текущей строки вниз'"")));
+		
+		УзелКолонок = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""КолонкиВСтроке"");
+		ИндексЧтенияКолонок = ИндексТекущегоДействия + 1;
+		ОписаниеТаблицы     = """";
+		
+		Если ИндексЧтенияКолонок < КоличествоДействий Тогда
+			ТекущееДействие = ПоследовательнотьДействий[ИндексЧтенияКолонок];
+			Пока ТекущееДействие.Имя = ""FIELD""
+				И ИндексЧтенияКолонок < КоличествоДействий Цикл
+				
+				Если ТекущееДействие.ТипУзла = 0 Тогда
+					
+					ЗаголовокКолонки = Строка(ТекущееДействие.Атрибуты[""TITLE""]);
+					Если НЕ ПустаяСтрока(ЗаголовокКолонки) Тогда
+						
+						ТекстВЯчейке = Строка(ТекущееДействие.Атрибуты[""CELLTEXT""]);
+						
+						УзелКолонки = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+							УзелКолонок,
+							""$"" + ЗаголовокКолонки,
+							ТекстВЯчейке,
+							ЗаголовокКолонки,
+							,
+							ЗаголовокКолонки,
+							,
+							,
+							"""");
+						
+						ОписаниеТаблицы = ОписаниеТаблицы
+							+ ЗаголовокКолонки
+							+ "": """"""
+							+ ТекстВЯчейке
+							+ """"""""
+							+ "";""
+							+ Символы.ПС;
+							
+					КонецЕсли;
+					
+				КонецЕсли;
+				ИндексЧтенияКолонок = ИндексЧтенияКолонок + 1;
+				ТекущееДействие     = ПоследовательнотьДействий[ИндексЧтенияКолонок];
+			КонецЦикла;
+		КонецЕсли;
+		
+		ИндексТекущегоДействия = ИндексЧтенияКолонок - 1;
+		
+		Если НЕ ПустаяСтрока(ОписаниеТаблицы) Тогда
+			НовыйШаг.Автоописание = НовыйШаг.Автоописание
+				+ Символы.ПС
+				+ Символы.ПС
+				+ НСтр(""ru = 'Значения в строке:'"")
+				+ Символы.ПС
+				+ ОписаниеТаблицы;
+		КонецЕсли;
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+			НовыйШаг.Значение,
+			""НазначениеШага"",
+			""СделатьТекущейСтрокой"");
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+			НовыйШаг.Значение,
+			""ОбластьПоиска"",
+			?(Направление = ""UP"", ""ОтТекущейСтрокиВверх"", ""ОтТекущейСтроки""));
+		
+	Иначе
+		
+		// Чтобы всегда можно было отследить добавление записи новых команд в журнале
+		ТекстСообщения = НСтр(""ru = 'Неизвестное имя команды """"%1"""" для объекта """"%2""""'"");
+		ТекстСообщения = СтрЗаменить(ТекстСообщения, ""%1"", ИмяКоманды);
+		ТекстСообщения = СтрЗаменить(ТекстСообщения, ""%2"", ОписательОбъекта.ТипОбъекта);
+		
+		СцТ_СообщитьОбОшибке(ТекстСообщения);
+		
+	// ПОКА НЕ РЕАЛИЗОВАНО, Т.К. НЕТ ПОДХОДЯЩИХ ТИПОВ ШАГОВ В СЦЕНАРИИ
+	//ИначеЕсли ИмяКоманды = ""gotoNextItem"" Тогда
+	//	ТестируемыйОбъект.ПерейтиКСледующемуЭлементу();
+	//	
+	//ИначеЕсли ИмяКоманды = ""gotoPreviousItem"" Тогда
+	//	ТестируемыйОбъект.ПерейтиКПредыдущемуЭлементу();
+	//	
+	//ИначеЕсли ИмяКоманды = ""finishEditingCurrentArea"" Тогда
+	//	ТестируемыйОбъект.ЗавершитьРедактированиеТекущейОбласти();
+	//	
+	//ИначеЕсли ИмяКоманды = ""beginEditingCurrentArea"" Тогда
+	//	ТестируемыйОбъект.НачатьРедактированиеТекущейОбласти();
+	//	
+	//ИначеЕсли ИмяКоманды = ""setCurrentArea"" Тогда
+	//	ТестируемыйОбъект.УстановитьТекущуюОбласть(Строка(АтрибутыКоманды[""area""]));
+	//	
+		
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаКлиенте
+Функция СцТ_ДобавитьУзелИнтерактивнойАвтоГруппы(
+	Знач ИмяУзла,
+	АтрибутыУзла,
+	ТекущийУзелГруппы,
+	СтекОписателейОбъектов,
+	ОкноФормыНаВершинеСтека = Ложь)
+	
+	Если ИмяУзла <> ""FORM"" И ИмяУзла <> ""FORMTABLE"" Тогда
+		Возврат ТекущийУзелГруппы;
+	КонецЕсли;
+	
+	ЗаголовокОбъекта = Строка(АтрибутыУзла[""TITLE""]);
+	ИмяОбъекта       = Строка(АтрибутыУзла[""NAME""]);
+	Если ПустаяСтрока(ИмяОбъекта) Тогда
+		ИмяОбъекта = ""$"" + ЗаголовокОбъекта;
+	КонецЕсли;
+	
+	Если ИмяУзла = ""FORMTABLE""
+		И ТекущийУзелГруппы <> ШагиДерево
+		И ТекущийУзелГруппы.ТипШага = ""ИнтерактивнаяАвтоГруппа"" Тогда
+		// Найти последний добавленный шаг. Если это та же таблица,
+		// тогда использовать ее
+		
+		ДочерниеУзлы = ТекущийУзелГруппы.ПолучитьЭлементы();
+		КоличествоДочернихУзлов = ДочерниеУзлы.Количество();
+		Если КоличествоДочернихУзлов > 0 Тогда
+			ПоследнийУзел = ДочерниеУзлы[КоличествоДочернихУзлов - 1];
+			Если ПоследнийУзел.ТипШага = ""АвтоГруппаТаблицаФормы"" Тогда
+				УзелОписанияТаблицы = ПоследнийУзел.Значение.ПолучитьЭлементы().Получить(0);
+				Если УзелОписанияТаблицы.Синоним = ЗаголовокОбъекта Тогда
+					Возврат ПоследнийУзел;
+				КонецЕсли;
+			КонецЕсли;
+		КонецЕсли;
+		
+	КонецЕсли;
+	
+	НоваяГруппа = ТекущийУзелГруппы.ПолучитьЭлементы().Добавить();
+	НоваяГруппа.Активность = 1;
+	НоваяГруппа.УИШ        = Строка(Новый УникальныйИдентификатор);
+	
+	Если ИмяУзла = ""FORM"" Тогда
+		
+		// Сохранение для окна указателя на последнюю добавленную автогруппу формы
+		ОписательОкна = СтекОписателейОбъектов[0];
+		ОписательОкна.ПДАФ = НоваяГруппа;
+		
+		ЗаголовокОкна = ОписательОкна.Заголовок;
+		
+		НоваяГруппа.ТипШага              = ""ИнтерактивнаяАвтоГруппа"";
+		НоваяГруппа.ЗаголовокФормы       = ЗаголовокОбъекта;
+		НоваяГруппа.ПредставлениеОбъекта = ?(ПустаяСтрока(ЗаголовокОбъекта), НСтр(""ru = '<без заголовка>'""), ЗаголовокОбъекта);
+		НоваяГруппа.Наименование = НСтр(""ru = 'Форма """"'"")
+			+ НоваяГруппа.ПредставлениеОбъекта
+			+ """""""";
+		НоваяГруппа.Автоописание = НСтр(""ru = 'Интерактивная работа с формой """"'"")
+			+ НоваяГруппа.ПредставлениеОбъекта
+			+ """""""";
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+			НоваяГруппа.Значение,
+			""ЗаголовокОкнаФормы"",
+			ЗаголовокОкна);
+		
+		// Далее создание шага ""НайтиФорму""
+		ОписательРодительскогоОбъекта = Неопределено;
+		Если ОкноФормыНаВершинеСтека И СтекОписателейОбъектов.Количество() > 0 Тогда
+			ОписательРодительскогоОбъекта = СтекОписателейОбъектов[СтекОписателейОбъектов.ВГраница()];
+		ИначеЕсли СтекОписателейОбъектов.Количество() > 1 Тогда
+			ОписательРодительскогоОбъекта = СтекОписателейОбъектов[СтекОписателейОбъектов.ВГраница() - 1];
+		КонецЕсли;
+		
+		Если ОписательРодительскогоОбъекта <> Неопределено
+			И ОписательРодительскогоОбъекта.ТипОбъекта <> ""CLIENTAPPLICATIONWINDOW"" Тогда
+			ОписательРодительскогоОбъекта = Неопределено;
+		КонецЕсли;
+		
+		ШагНайтиФорму = НоваяГруппа.ПолучитьЭлементы().Добавить();
+		ШагНайтиФорму.ТипШага        = ""НайтиФорму"";
+		ШагНайтиФорму.Активность     = 1;
+		ШагНайтиФорму.Наименование   = НСтр(""ru = 'Найти форму'"");
+		ШагНайтиФорму.ЗаголовокФормы = ЗаголовокОбъекта;
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(ШагНайтиФорму.Значение, ""ИскатьПоИмени"", Ложь);
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(ШагНайтиФорму.Значение, ""ИскатьПоЗаголовку"", НЕ ОкноФормыНаВершинеСтека);
+		
+		ИскатьПоЗаголовкуОкна = НЕ ПустаяСтрока(ЗаголовокОкна);
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(ШагНайтиФорму.Значение,
+			""ИскатьПоЗаголовкуОкна"",
+			ИскатьПоЗаголовкуОкна);
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(ШагНайтиФорму.Значение, ""ЗаголовокОкнаФормы"", ЗаголовокОкна);
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+			ШагНайтиФорму.Значение,
+			""ЭлементыФормы"",
+			,
+			НСтр(""ru = 'Элементы искомой формы'""),
+			Ложь);
+		
+		Если ОкноФормыНаВершинеСтека Тогда
+			ШагНайтиФорму.АвтоОписание = НСтр(""ru = 'Найти форму, привязать форму к интерактивной автогруппе.'"");
+		Иначе
+			ШагНайтиФорму.АвтоОписание = НСтр(""ru = 'Найти форму с заголовком, удовлетворяющим шаблону """"%1"""". Привязать форму к интерактивной автогруппе.'"");
+			ШагНайтиФорму.АвтоОписание = СтрЗаменить(ШагНайтиФорму.АвтоОписание, ""%1"", ШагНайтиФорму.ЗаголовокФормы);
+		КонецЕсли;
+		
+		Если ИскатьПоЗаголовкуОкна Тогда
+			ШагНайтиФорму.АвтоОписание = ШагНайтиФорму.АвтоОписание
+				+ Символы.ПС
+				+ НСтр(""ru = 'Форма располагается в окне с заголовком, удовлетворяющим шаблону """"'"")
+				+ ЗаголовокОкна
+				+ """"""."";
+		КонецЕсли;
+		
+		ШагНайтиФорму.ДанныеКартинки = СцТ_ГлавнаяФорма.СцТ_ПолучитьДанныеКартинки_НаКлиенте(ШагНайтиФорму);
+		
+	ИначеЕсли ИмяУзла = ""FORMTABLE"" Тогда
+		
+		НоваяГруппа.ТипШага = ""АвтоГруппаТаблицаФормы"";
+		
+		НоваяГруппа.Наименование = НСтр(""ru = 'Таблица формы """"'"")
+			+ ЗаголовокОбъекта
+			+ """""""";
+		НоваяГруппа.Автоописание = НСтр(""ru = 'Работа с таблицей формы """"'"")
+			+ ЗаголовокОбъекта
+			+ """""""";
+		
+		УзелОписанияТаблицы = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НоваяГруппа.Значение, ""ОписаниеТаблицы"");
+		УзелОписанияТаблицы.Значение      = ИмяОбъекта;
+		УзелОписанияТаблицы.Синоним       = ЗаголовокОбъекта;
+		УзелОписанияТаблицы.Представление = ЗаголовокОбъекта;
+		
+		СцТ_ДобавитьУзелПутиОбъекта(НоваяГруппа.Значение, СтекОписателейОбъектов);
+		
+	КонецЕсли;
+	
+	НоваяГруппа.ДанныеКартинки = СцТ_ГлавнаяФорма.СцТ_ПолучитьДанныеКартинки_НаКлиенте(НоваяГруппа);
+	
+	Возврат НоваяГруппа;
+	
+КонецФункции
+
+&НаКлиенте
+Процедура СцТ_ДобавитьШаг_ВыполнитьИнтерактивнуюКоманду(Ссылка, УзелГруппы)
+	
+	НовыйШаг = УзелГруппы.ПолучитьЭлементы().Добавить();
+	Новыйшаг.ТипШага    = ""ВыполнитьИнтерактивнуюКоманду"";
+	НовыйШаг.Активность = 1;
+	
+	СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""НавигационнаяСсылка"", Ссылка);
+	
+	НовыйШаг.Наименование   = НСтр(""ru = 'Перейти по навигационной ссылке """"'"") + Ссылка + """""""";
+	НовыйШаг.Автоописание   = НовыйШаг.Наименование;
+	НовыйШаг.ДанныеКартинки = СцТ_ГлавнаяФорма.СцТ_ПолучитьДанныеКартинки_НаКлиенте(НовыйШаг);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_ДобавитьШагДействияНадРеквизитом(
+	ИмяКоманды,
+	Атрибуты,
+	ОписательОбъекта,
+	УзелГруппы,
+	ПоследовательнотьДействий,
+	ИндексТекущегоДействия,
+	КоличествоДействий,
+	СтекОписателейОбъектов)
+	
+	ВыполняемоеДействие = """";
+	ВидПоля             = """";
+	ДанныеДействия      = Неопределено;
+	
+	Если ИмяКоманды = ""CLEAR"" Тогда
+		ВыполняемоеДействие = ""Очистить"";
+		ВидПоля             = ""ПолеВвода"";
+	ИначеЕсли ИмяКоманды = ""INCREASEVALUE"" Тогда
+		ВыполняемоеДействие = ""УвеличитьЗначение"";
+		ВидПоля             = ""ПолеВвода"";
+	ИначеЕсли ИмяКоманды = ""DECREASEVALUE"" Тогда
+		ВыполняемоеДействие = ""УменьшитьЗначение"";
+		ВидПоля             = ""ПолеВвода"";
+	ИначеЕсли ИмяКоманды = ""GOTONEXTMONTH"" Тогда
+		ВыполняемоеДействие = ""ПерейтиНаМесяцВперед"";
+		ВидПоля             = ""ПолеКалендаря"";
+	ИначеЕсли ИмяКоманды = ""GOTOPREVIOUSMONTH"" Тогда
+		ВыполняемоеДействие = ""ПерейтиНаМесяцНазад"";
+		ВидПоля             = ""ПолеКалендаря"";
+	ИначеЕсли ИмяКоманды = ""GOTONEXTYEAR"" Тогда
+		ВыполняемоеДействие = ""ПерейтиНаГодВперед"";
+		ВидПоля             = ""ПолеКалендаря"";
+	ИначеЕсли ИмяКоманды = ""GOTOPREVIOUSYEAR"" Тогда
+		ВыполняемоеДействие = ""ПерейтиНаГодНазад"";
+		ВидПоля             = ""ПолеКалендаря"";
+	ИначеЕсли ИмяКоманды = ""GOTODATE"" Тогда
+		ВыполняемоеДействие = ""ПерейтиКДате"";
+		ВидПоля             = ""ПолеКалендаря"";
+		
+		ДатаСтр = Атрибуты[""DATE""];
+		Если ДатаСтр = Неопределено Тогда
+			ДанныеДействия = '00010101';
+		Иначе
+			Попытка
+				#Если НЕ ВебКлиент Тогда
+				ДанныеДействия = XMLЗначение(Тип(""Дата""), ДатаСтр);
+				#КонецЕсли
+			Исключение
+				ДанныеДействия = '00010101';
+			КонецПопытки;
+		КонецЕсли;
+		
+	ИначеЕсли ИмяКоманды = ""SELECTOPTION"" Тогда
+		ВыполняемоеДействие = ""ВыбратьВариант"";
+		ВидПоля             = ""ПолеПереключателя"";
+		ДанныеДействия      = Строка(Атрибуты[""PRESENTATION""]);
+		
+	ИначеЕсли ИмяКоманды = ""OPEN"" Тогда
+		ВыполняемоеДействие = ""Открыть"";
+		ВидПоля             = ""ПолеВвода"";
+		
+	ИначеЕсли ИмяКоманды = ""INPUTTEXT"" Тогда
+		
+		ОписательСледующегоДействия = ПоследовательнотьДействий[ИндексТекущегоДействия + 2];
+		
+		ВидПоля = ""ПолеВвода"";
+		ДанныеДействия = Строка(Атрибуты[""TEXT""]);
+		
+		Если ОписательСледующегоДействия.Имя = ""EXECUTECHOICEFROMCHOICELIST""
+			И ОписательСледующегоДействия.ТипУзла = 0 Тогда
+			
+			ВыбираемыеДанные = Строка(ОписательСледующегоДействия.Атрибуты[""PRESENTATION""]);
+			
+			Если ВРег(Лев(ВыбираемыеДанные, СтрДлина(ДанныеДействия))) = ВРег(ДанныеДействия) Тогда
+				ВыполняемоеДействие    = ""ВводПоСтроке"";
+				ИндексТекущегоДействия = ИндексТекущегоДействия + 3; // Переход к концу следующего действия
+			КонецЕсли;
+			
+		Иначе
+			
+			ВыполняемоеДействие = ""ВвестиТекст"";
+			
+		КонецЕсли;
+		
+	Иначе
+		
+		// Анализ действия - выбор из списка или
+		// же нажатие кнопки выбора и дальнейшая работа с дочерними формами
+		
+		ВидПоля = ""ПолеВвода"";
+		Если ИмяКоманды = ""EXECUTECHOICEFROMCHOICELIST"" Тогда
+			// Не был открыт список выбора, без этого выбор из списка выбора невозможен.
+			// Теоретически это ошибка записи журнала, но для устойчисвости механизма
+			// запишем действие выбора из списка выбора
+			ВыполняемоеДействие = ""ВыбратьИзСпискаВыбора"";
+			ДанныеДействия      = Строка(Атрибуты[""PRESENTATION""]);
+		Иначе
+			
+			// Остались только два действия: ""STARTCHOOSING"" и ""STARTCHOOSINGFROMCHOICELIST""
+			ОписательСледующегоДействия = ПоследовательнотьДействий[ИндексТекущегоДействия + 2];
+			Если ОписательСледующегоДействия.Имя = ""EXECUTECHOICEFROMCHOICELIST""
+				И ОписательСледующегоДействия.ТипУзла = 0 Тогда
+				
+				ВыполняемоеДействие = ?(
+					ИмяКоманды = ""STARTCHOOSING"",
+					""ВыбратьИзСпискаВыбора"",
+					""ВыбратьИзВыпадающегоСписка"");
+				
+				ДанныеДействия         = Строка(ОписательСледующегоДействия.Атрибуты[""PRESENTATION""]);
+				ИндексТекущегоДействия = ИндексТекущегоДействия + 3; // Переход к концу следующего действия
+				
+			ИначеЕсли ИмяКоманды = ""STARTCHOOSING"" Тогда
+				ВыполняемоеДействие = ""НажатьКнопкуВыбора""
+			Иначе
+				// Был начат выбор из списка выбора, но за этим ничего не последовало - пользователь
+				// не стал выбирать значение из списка выбора
+				Возврат;
+			КонецЕсли;
+			
+		КонецЕсли;
+		
+	КонецЕсли;
+	
+	ПоследнийШагАвтоГруппы = Неопределено;
+	Если ВыполняемоеДействие <> ""НажатьКнопкуВыбора"" И ВыполняемоеДействие <> ""Открыть"" Тогда
+		ЭлементыГруппы      = УзелГруппы.ПолучитьЭлементы();
+		КоличествоЭлементов = ЭлементыГруппы.Количество();
+		Если КоличествоЭлементов > 0 Тогда
+			ПоследнийШагАвтоГруппы = ЭлементыГруппы.Получить(КоличествоЭлементов - 1);
+			Если ПоследнийШагАвтоГруппы.ТипШага <> ""TmpЗаполнениеРеквизитов"" Тогда
+				ПоследнийШагАвтоГруппы = Неопределено;
+			Иначе
+				// Убедиться, что заполняемое поле содержит простое действие
+				УзелРеквизитов = ПоследнийШагАвтоГруппы.Значение.ПолучитьЭлементы().Получить(0);
+				УзелРеквизита  = УзелРеквизитов.ПолучитьЭлементы().Получить(0);
+				Если УзелРеквизита.Действие = ""НажатьКнопкуВыбора""
+					ИЛИ УзелРеквизита.Действие = ""Открыть"" Тогда
+					ПоследнийШагАвтоГруппы = Неопределено;
+				КонецЕсли;
+			КонецЕсли;
+		КонецЕсли;
+	КонецЕсли;
+	
+	Если ПоследнийШагАвтоГруппы = Неопределено Тогда
+		
+		ПоследнийШагАвтоГруппы = УзелГруппы.ПолучитьЭлементы().Добавить();
+		ПоследнийШагАвтоГруппы.Активность = Истина;
+		ПоследнийШагАвтоГруппы.Наименование = НСтр(""ru = 'Tmp: Заполнение реквизитов'"");
+		ПоследнийШагАвтоГруппы.ТипШага = ""TmpЗаполнениеРеквизитов"";
+		УзелРеквизитов = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(ПоследнийШагАвтоГруппы.Значение,
+			""TmpУзелРеквизитов"");
+		
+	КонецЕсли;
+	
+	Если УзелГруппы.ТипШага = ""АвтоГруппаТаблицаФормы"" Тогда
+		СинонимВидаПоляФормы = НСтр(""ru = 'Ячейка'"");
+	Иначе
+		Если ВидПоля = ""ПолеВвода"" Тогда
+			СинонимВидаПоляФормы = НСтр(""ru = 'Поле ввода'"");
+		ИначеЕсли ВидПоля = ""ПолеКалендаря"" Тогда
+			СинонимВидаПоляФормы = НСтр(""ru = 'Поле календаря'"");
+		ИначеЕсли ВидПоля = ""ПолеПереключателя"" Тогда
+			СинонимВидаПоляФормы = НСтр(""ru = 'Поле переключателя'"");
+		КонецЕсли;
+	КонецЕсли;
+	
+	УзелРеквизита = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+		УзелРеквизитов,
+		?(ПустаяСтрока(ОписательОбъекта.Имя),
+			""$"" + ОписательОбъекта.Заголовок,
+			ОписательОбъекта.Имя),
+		ДанныеДействия,
+		ОписательОбъекта.Заголовок,
+		,
+		СинонимВидаПоляФормы + "" """""" + ОписательОбъекта.Заголовок + """""""",
+		ВыполняемоеДействие,
+		,
+		ВидПоля,
+		,
+		Ложь);
+	
+	СцТ_ДобавитьУзелПутиОбъекта(УзелРеквизита, СтекОписателейОбъектов);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_ДобавитьШаг_ДействиеСТаблицей(ИмяКоманды, УзелГруппы)
+	
+	НовыйШаг = УзелГруппы.ПолучитьЭлементы().Добавить();
+	Новыйшаг.ТипШага    = ""ДействиеСТаблицей"";
+	НовыйШаг.Активность = 1;
+	
+	Если ИмяКоманды = ""GOONELEVELUP"" Тогда
+		ДействиеСТаблицей = ""ПерейтиНаУровеньВверх"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти на уровень вверх'"");
+	ИначеЕсли ИмяКоманды = ""GOONELEVELDOWN"" Тогда
+		ДействиеСТаблицей = ""ПерейтиНаУровеньВниз"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти на уровень вниз'"");
+	ИначеЕсли ИмяКоманды = ""GOTONEXTROW"" Тогда
+		ДействиеСТаблицей = ""ПерейтиКСледующейСтроке"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти к следующей строке'"");
+	ИначеЕсли ИмяКоманды = ""GOTOPREVIOUSROW"" Тогда
+		ДействиеСТаблицей = ""ПерейтиКПредыдущейСтроке"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти к предыдущей строке'"");
+	ИначеЕсли ИмяКоманды = ""GOTOFIRSTROW"" Тогда
+		ДействиеСТаблицей = ""ПерейтиВНачалоТаблицы"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти в начало'"");
+	ИначеЕсли ИмяКоманды = ""GOTOLASTROW"" Тогда
+		ДействиеСТаблицей = ""ПерейтиВКонецТаблицы"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти в конец'"");
+	ИначеЕсли ИмяКоманды = ""CHANGEROW"" Тогда
+		ДействиеСТаблицей = ""НачатьРедактированиеСтроки"";
+		ОписаниеДействия  = НСтр(""ru = 'Редактировать строку'"");
+	ИначеЕсли ИмяКоманды = ""ENDEDITROW"" Тогда
+		ДействиеСТаблицей = ""ЗавершитьРедактированиеСтроки"";
+		ОписаниеДействия  = НСтр(""ru = 'Завершить редактирование строки'"");
+	ИначеЕсли ИмяКоманды = ""ADDROW"" Тогда
+		ДействиеСТаблицей = ""ДобавитьСтроку"";
+		ОписаниеДействия  = НСтр(""ru = 'Добавить строку'"");
+	ИначеЕсли ИмяКоманды = ""DELETEROW"" Тогда
+		ДействиеСТаблицей = ""УдалитьСтроку"";
+		ОписаниеДействия  = НСтр(""ru = 'Удалить строку'"");
+	ИначеЕсли ИмяКоманды = ""EXPAND"" Тогда
+		ДействиеСТаблицей = ""РазвернутьСтроку"";
+		ОписаниеДействия  = НСтр(""ru = 'Развернуть строку'"");
+	ИначеЕсли ИмяКоманды = ""COLLAPSE"" Тогда
+		ДействиеСТаблицей = ""СвернутьСтроку"";
+		ОписаниеДействия  = НСтр(""ru = 'Свернуь строку'"");
+	ИначеЕсли ИмяКоманды = ""CHOOSE"" Тогда
+		ДействиеСТаблицей = ""ВыбратьСтроку"";
+		ОписаниеДействия  = НСтр(""ru = 'Выбрать строку'"");
+		
+	ИначеЕсли ИмяКоманды = ""GOTONEXTITEM"" Тогда
+		ДействиеСТаблицей = ""ПерейтиКСледующейЯчейке"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти к следующей ячейке'"");
+		
+	ИначеЕсли ИмяКоманды = ""GOTOPREVIOUSITEM"" Тогда
+		ДействиеСТаблицей = ""ПерейтиКПредыдующейЯчейке"";
+		ОписаниеДействия  = НСтр(""ru = 'Перейти к предыдущей ячейке'"");
+		
+	КонецЕсли;
+	
+	СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ДействиеСТаблицей""   , ДействиеСТаблицей);
+	СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""КоличествоПовторений"", 1);
+	
+	НовыйШаг.Наименование   = ОписаниеДействия;
+	НовыйШаг.Автоописание   = НовыйШаг.Наименование;
+	НовыйШаг.ДанныеКартинки = СцТ_ГлавнаяФорма.СцТ_ПолучитьДанныеКартинки_НаКлиенте(НовыйШаг);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_ДобавитьШаг_Нажать(УзелГруппы, ОписательОбъекта, ИмяКоманды, СтекОписателейОбъектов)
+	
+	Если ОписательОбъекта.ТипОбъекта <> ""FORMBUTTON""
+		И ОписательОбъекта.ТипОбъекта <> ""FORMFIELD""
+		И ОписательОбъекта.ТипОбъекта <> ""FORMDECORATION""
+		И ОписательОбъекта.ТипОбъекта <> ""COMMANDINTERFACEBUTTON"" Тогда
+		Возврат;
+	КонецЕсли;
+	
+	Если ОписательОбъекта.ТипОбъекта <> ""COMMANDINTERFACEBUTTON"" Тогда
+		
+		НовыйШаг = УзелГруппы.ПолучитьЭлементы().Добавить();
+		НовыйШаг.ТипШага    = ""НажатьКнопку"";
+		НовыйШаг.Активность = 1;
+		
+		Если ОписательОбъекта.ТипОбъекта = ""FORMBUTTON"" Тогда
+			
+			СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ВидОбъекта"", ""Кнопка"");
+			
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMDECORATION"" Тогда
+			
+			СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ВидОбъекта"", ""Декорация"");
+			
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMFIELD"" Тогда
+			
+			Если ИмяКоманды = ""SETCHECK"" Тогда
+				СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ВидОбъекта"", ""ПолеФлажка"");
+			Иначе
+				СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ВидОбъекта"", ""Поле"");
+			КонецЕсли;
+			
+		КонецЕсли;
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение,
+			""ИмяКнопки"",
+			?(ПустаяСтрока(ОписательОбъекта.Имя),
+				""$"" + ОписательОбъекта.Заголовок,
+				ОписательОбъекта.Имя),
+			ОписательОбъекта.Заголовок);
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ДействиеСКнопкой"", ""Нажать"");
+		
+		Если ОписательОбъекта.ТипОбъекта = ""FORMBUTTON"" Тогда
+			ПредставлениеКнопки      = НСтр(""ru = 'Кнопка """"'"");
+			ПредставлениеДляОписания = НСтр(""ru = 'кнопку'"");
+			
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMDECORATION"" Тогда
+			ПредставлениеКнопки      = НСтр(""ru = 'Декорация """"'"");
+			ПредставлениеДляОписания = НСтр(""ru = 'декорацию'"");
+			
+		ИначеЕсли ОписательОбъекта.ТипОбъекта = ""FORMFIELD"" Тогда
+			Если ИмяКоманды = ""SETCHECK"" Тогда
+				ПредставлениеКнопки      = НСтр(""ru = 'Поле флажка """"'"");
+				ПредставлениеДляОписания = НСтр(""ru = 'поле флажка'"");
+			Иначе
+				ПредставлениеКнопки      = НСтр(""ru = 'Поле реквизита формы """"'"");
+				ПредставлениеДляОписания = НСтр(""ru = 'поле реквизита формы'"");
+			КонецЕсли;
+			
+		КонецЕсли;
+		
+		ПредставлениеКнопки = ПредставлениеКнопки + ОписательОбъекта.Заголовок + """""""";
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение, ""ПредставлениеКнопки"", ПредставлениеКнопки);
+		
+		НовыйШаг.Наименование = НСтр(""ru = 'Нажать '"")
+			+ ПредставлениеДляОписания
+			+ "" """""" + ОписательОбъекта.Заголовок + """""""";
+		
+		НовыйШаг.Автоописание = НовыйШаг.Наименование;
+		
+	Иначе
+		
+		ОписательОкна = СтекОписателейОбъектов[0];
+		
+		Если ОписательОкна.ДополнительноеСвойство = Истина Тогда
+			УзелИнтерактивнойГруппы = УзелГруппы;
+			
+		ИначеЕсли ОписательОкна.ПДАФ <> Неопределено Тогда
+			УзелИнтерактивнойГруппы = ОписательОкна.ПДАФ;
+			
+		Иначе
+			
+			// Если нет автогруппы формы, тогда создать автогруппу формы
+			
+			АтрибутыИнтерактивнойФормы = Новый Соответствие;
+			АтрибутыИнтерактивнойФормы[""TITLE""] = ОписательОкна.Заголовок;
+			УзелИнтерактивнойГруппы = СцТ_ДобавитьУзелИнтерактивнойАвтоГруппы(
+				""FORM"",
+				АтрибутыИнтерактивнойФормы,
+				УзелГруппы,
+				СтекОписателейОбъектов,
+				Истина);
+			
+		КонецЕсли;
+		
+		НовыйШаг = УзелИнтерактивнойГруппы.ПолучитьЭлементы().Добавить();
+		НовыйШаг.ТипШага    = ""НажатьКнопкуКИ"";
+		НовыйШаг.Активность = 1;
+		
+		УзелОписаниеКнопкиКИ = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+			НовыйШаг.Значение,
+			""ОписаниеКнопкиКИ"",
+			,
+			,
+			,
+			,
+			,
+			,
+			"""");
+			
+			СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(НовыйШаг.Значение,
+			""ВариантПоискаОбъекта"",
+			""011"",
+			,
+			,
+			,
+			,
+			,
+			"""");
+		
+		// Анализ родительских объектов, с целью определить, где была нажата кнопка КИ
+		// В стеке окно всегда имеет индекс 0, т.к. оно является корневым объектом,
+		Если СтекОписателейОбъектов.Количество() = 0 Тогда
+			// Это ошибка в записанном журнале, требуется возврат
+			Возврат;
+		КонецЕсли;
+		
+		КорневойОбъект = СтекОписателейОбъектов[0];
+		Если КорневойОбъект.ТипОбъекта <> ""CLIENTAPPLICATIONWINDOW"" Тогда
+			// Это ошибка. КИ может иметь только окно
+			Возврат;
+		КонецЕсли;
+		
+		УзелОписаниеКнопкиКИ.ТипУзла = ?(КорневойОбъект.ДополнительноеСвойство = Истина, ""1"", ""2"");
+		
+		// Формирование представления кнопки
+		УзелОписаниеКнопкиКИ.Синоним = ОписательОбъекта.Заголовок;
+		УзелОписаниеКнопкиКИ.Представление = """";
+		
+		// Формирование представления панели для автоописания
+		ПредставлениеПанели  = """";
+		Для Итератор = 2 По СтекОписателейОбъектов.ВГраница() Цикл
+			ТекущийОбъектВСтеке = СтекОписателейОбъектов[Итератор];
+			
+			Если ТекущийОбъектВСтеке.ТипОбъекта = ""COMMANDINTERFACEGROUP"" Тогда
+				ПредставлениеПанели = ПредставлениеПанели
+					+ ?(ПустаяСтрока(ПредставлениеПанели), """", "" -> "")
+					+ ТекущийОбъектВСтеке.Заголовок;
+			КонецЕсли;
+			
+		КонецЦикла;
+		
+		УзелОписаниеКнопкиКИ.Представление = """""""" + УзелОписаниеКнопкиКИ.Синоним + """"""""
+			+ ?(ПустаяСтрока(ПредставлениеПанели),
+				"""",
+				НСтр(""ru = ' на панели '"") + """""""" + ПредставлениеПанели + """""""");
+		
+		НовыйШаг.Наименование = НСтр(""ru = 'Нажать кнопку КИ'"");
+		НовыйШаг.Автоописание = НСтр(""ru = 'Нажать кнопку командного интерфейса'"");
+		
+		Если НЕ ПустаяСтрока(УзелОписаниеКнопкиКИ.Представление) Тогда
+			
+			Окончание = ?(УзелОписаниеКнопкиКИ.ТипУзла = ""1"",
+							НСтр(""ru = ' главного окна: '""),
+							НСтр(""ru = ' текущего окна: '""))
+				+ УзелОписаниеКнопкиКИ.Представление;
+			
+			НовыйШаг.Наименование = НовыйШаг.Наименование + Окончание;
+			НовыйШаг.Автоописание = НовыйШаг.Автоописание + Окончание;
+			
+		КонецЕсли;
+		
+		
+	КонецЕсли;
+	
+	НовыйШаг.ДанныеКартинки = СцТ_ГлавнаяФорма.СцТ_ПолучитьДанныеКартинки_НаКлиенте(НовыйШаг);
+	СцТ_ДобавитьУзелПутиОбъекта(НовыйШаг.Значение, СтекОписателейОбъектов);
+	
+КонецПроцедуры
+
+&НаКлиенте
+Процедура СцТ_УдалитьПустыеАвтоГруппы(РодительскийУзелДерева)
+	
+	ДочерниеУзлы    = РодительскийУзелДерева.ПолучитьЭлементы();
+	КоличествоУзлов = ДочерниеУзлы.Количество();
+	Для ОбратныйИндекс = 1 По КоличествоУзлов Цикл
+		
+		УзелДерева = ДочерниеУзлы.Получить(КоличествоУзлов - ОбратныйИндекс);
+		Если УзелДерева.ТипШага = ""ИнтерактивнаяАвтоГруппа""
+			ИЛИ УзелДерева.ТипШага = ""АвтоГруппаТаблицаФормы"" Тогда
+			СцТ_УдалитьПустыеАвтоГруппы(УзелДерева);
+			
+			Если УзелДерева.ПолучитьЭлементы().Количество() = 0 Тогда
+				ДочерниеУзлы.Удалить(УзелДерева);
+			КонецЕсли;
+		КонецЕсли;
+		
+	КонецЦикла;
+	
+КонецПроцедуры
+
+
+&НаКлиенте
+Функция СцТ_ДобавитьУзелПутиОбъекта(УзелЗначения, СтекОписателейОбъектов)
+	
+	ПутьОбъекта = СцТ_ПолучитьПутьОбъектаИзСтека(СтекОписателейОбъектов);
+	УзелПути = СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+		УзелЗначения,
+		""ИСТЗ_ПутьКОбъекту"");
+	
+	Для каждого ОписательЭлементаПути Из ПутьОбъекта Цикл
+		
+		СцТ_ГлавнаяФорма.СцТ_ДобавитьУзелВДеревоЗначения(
+			УзелПути,
+			ОписательЭлементаПути.Имя,
+			ОписательЭлементаПути.Тип,
+			ОписательЭлементаПути.Заголовок,
+			,
+			,
+			,
+			,
+			,
+			,
+			Ложь);
+		
+	КонецЦикла;
+	
+КонецФункции
+
+
+&НаКлиенте
+Процедура СцТ_СообщитьОбОшибке(Сообщение)
+	
+	СообщенияОбОшибкахПреобразования.Добавить(Сообщение);
+	
+КонецПроцедуры
+
+#КонецОбласти
+
+
+#Область ПреобразованиеЖурналаВПрограмму
+
+&НаСервере
+Функция ПреобразоватьНаСервере(ТекстДляПреобразования)
+
+	Читатель = Новый ЧтениеXML();
+	Читатель.УстановитьСтроку(ТекстДляПреобразования);
+	
+	СозданныеПроцедуры = Новый Массив();
+	СозданныеВОкнеИФормеПеременные = Новый Соответствие();
+
+	ТекстовыйДокументРезультата = Новый ТекстовыйДокумент();
+
+	Читатель.ПерейтиКСодержимому();
+	Отступ = 0;
+
+	// Преобразовываем файл
+	Если Читатель.ТипУзла = ТипУзлаXML.НачалоЭлемента И
+		Читатель.Имя = ""uilog"" Тогда
+
+		ПреобразоватьВСценарий(Читатель, ТекстовыйДокументРезультата);
+
+	КонецЕсли;
+	
+	Возврат ТекстовыйДокументРезультата.ПолучитьТекст();
+
+КонецФункции
+
+#Область ВспомогательныеПроцедурыИФункции
+
+&НаСервере
+Процедура ДобавитьСтроку(Писатель, СтрокаДляВывода, ДобавлятьПереход = Ложь)
+
+	// Добавляем в начало строки необходимое количество пробелов
+	Результат = """";
+	Для Индекс = 1 To Отступ Цикл
+		Результат = Результат + ""	"";
+	КонецЦикла;
+	Результат = Результат + СтрокаДляВывода;
+	
+	// Добавляем строку в конец
+	Писатель.ДобавитьСтроку(Результат);
+	Если ДобавлятьПереход Тогда
+		Писатель.ДобавитьСтроку("""");
+	КонецЕсли;
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ВставитьСтроку(Писатель, НомерСтроки, СтрокаДляВывода)
+
+	// Добавляем в начало строки необходимое количество пробелов
+	Результат = """";
+	Для Индекс = 1 To Отступ Цикл
+		Результат = Результат + ""	"";
+	КонецЦикла;
+	Результат = Результат + СтрокаДляВывода;
+
+	// Вставляем строку в начало
+	Писатель.ВставитьСтроку(НомерСтроки, Результат);
+
+КонецПроцедуры
+
+&НаСервере
+Функция УдвоитьКавычки(СтрокаДляВывода)
+
+	// Для правильного вывода в файл удваиваем кавычки
+	Возврат СтрЗаменить(СтрокаДляВывода, """""""", """""""""""");
+
+КонецФункции
+
+&НаСервере
+Функция ЗначенияПоискаДляЗаголовка(Заголовок, Имя)
+	
+	// Поиск ""по заголовку"" или ""по имени и заголовку""
+	Если ПоискОбъектов = 0 Или ПоискОбъектов = 2 Тогда
+		Если Не Заголовок = Неопределено Тогда
+			Возврат """""""" + УдвоитьКавычки(Заголовок) + """""""";
+		КонецЕсли;
+		Если ПоискОбъектов = 2 и Имя = Неопределено Тогда
+			ВызватьИсключение НСтр(""ru = 'У объекта должны быть заполнены заголовок или имя'"");
+		КонецЕсли;
+		Возврат """";
+	// Поиск ""по имени""
+	ИначеЕсли ПоискОбъектов = 1 Тогда
+		Если Имя = Неопределено Тогда
+			Возврат """""""" + УдвоитьКавычки(Заголовок) + """""""";
+		КонецЕсли;
+		Возврат """";
+	// Поиск по имени и заголовку
+	Иначе
+		ВызватьИсключение НСтр(""ru = 'Неожиданный тип поиска объектов: '"") + ПоискОбъектов;
+	КонецЕсли;
+	
+КонецФункции
+
+&НаСервере
+Функция ЗначенияПоискаДляИмени(Заголовок, Имя)
+	
+	// Поиск ""по заголовку""
+	Если ПоискОбъектов = 0 Тогда
+		Возврат """";
+	// Поиск ""по имени"" или ""по имени и заголовку""
+	ИначеЕсли ПоискОбъектов = 1 Или ПоискОбъектов = 2 Тогда
+		Если Не Имя = Неопределено Тогда
+			Возврат """""""" + Имя + """""""";
+		КонецЕсли;
+		Если ПоискОбъектов = 2 И Заголовок = Неопределено Тогда
+			ВызватьИсключение НСтр(""ru = 'У объекта должны быть заполнены заголовок или имя'"");
+		КонецЕсли;
+		Возврат """";
+	Иначе
+		ВызватьИсключение НСтр(""ru = 'Неожиданный тип поиска объектов: '"") + ПоискОбъектов;
+	КонецЕсли;
+	
+КонецФункции
+
+&НаСервере
+Функция ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ЗаголовокОбъекта)
+
+	// Имя переменной начинается с имени типа
+	Если ТипОбъекта = ""ClientApplicationWindow"" Тогда
+		ИмяПеременной = ""ОкноПриложения"";
+	ИначеЕсли ТипОбъекта = ""Form"" Тогда
+		ИмяПеременной = ""Форма"";
+	ИначеЕсли ТипОбъекта = ""FormField"" Тогда
+		ИмяПеременной = ""Поле"";
+	ИначеЕсли ТипОбъекта = ""FormButton"" Тогда
+		ИмяПеременной = ""Кнопка"";
+	ИначеЕсли ТипОбъекта = ""FormGroup"" Тогда
+		ИмяПеременной = ""Группа"";
+	ИначеЕсли ТипОбъекта = ""FormTable"" Тогда
+		ИмяПеременной = ""Таблица"";
+	ИначеЕсли ТипОбъекта = ""FormDecoration"" Тогда
+		ИмяПеременной = ""Декорация"";
+	ИначеЕсли ТипОбъекта = ""CommandInterface"" Тогда
+		ИмяПеременной = ""КомандныйИнтерфейс"";
+	ИначеЕсли ТипОбъекта = ""CommandInterfaceGroup"" Тогда
+		ИмяПеременной = ""ГруппаКомандногоИнтерфейса"";
+	ИначеЕсли ТипОбъекта = ""CommandInterfaceButton"" Тогда
+		ИмяПеременной = ""КнопкаКомандногоИнтерфейса"";
+	Иначе
+		ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + ТипОбъекта;
+	КонецЕсли;
+
+	// Отсекаем всё, что не является буквами и цифрами
+	ПредыдущийСимволЭтоПробел = Истина;
+	ДлинаСтроки = СтрДлина(ЗаголовокОбъекта);
+	Для Индекс = 1 To ДлинаСтроки Цикл
+
+		СледующийСимвол = Сред(ЗаголовокОбъекта,Индекс, 1);
+		Если ЭтоБуква(СледующийСимвол) Или ЭтоЦифра(СледующийСимвол) Тогда
+			ИмяПеременной = ИмяПеременной + ? (ПредыдущийСимволЭтоПробел, ВРег(СледующийСимвол), СледующийСимвол);
+			ПредыдущийСимволЭтоПробел = Ложь;
+		Иначе
+			ПредыдущийСимволЭтоПробел = Истина;
+		КонецЕсли;
+	КонецЦикла;
+
+	Возврат ИмяПеременной;
+
+КонецФункции
+
+&НаСервере
+Функция ЭтоЦифра(Символ)
+
+	Код = КодСимвола (Символ);
+	Возврат Код >= 48 И Код <= 57;
+
+КонецФункции
+
+&НаСервере
+Функция ЭтоБуква(Символ)
+
+	// Считаем, что для небуквенных символов коды не отличаются
+	Возврат КодСимвола(НРег(Символ)) <> КодСимвола(ВРег(Символ));
+
+КонецФункции
+
+#КонецОбласти
+
+#Область ПРоцедурыПреобразования
+
+&НаСервере
+Процедура ПреобразоватьВСценарий(Читатель, Писатель)
+	
+	Читатель.Прочитать();
+	
+	ЛокальныйПисатель = Писатель;
+	
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+		
+		Если Читатель.Имя = ""ClientApplicationWindow"" Тогда
+		
+			ЛокальноеИмяПроцедуры = """";
+			ПреобразоватьОкно(Читатель, ЛокальныйПисатель, ЛокальноеИмяПроцедуры);
+
+		ИначеЕсли Читатель.Имя = ""Form"" Тогда
+			
+			ДобавитьСтроку(Писатель, """");
+			Отступ = Отступ + 1;
+			
+			ОбрабатываемоеОкно = """";
+			СозданныеВОкнеИФормеПеременные.Вставить(ОбрабатываемоеОкно, Новый Соответствие());
+			ПреобразоватьФорму(Читатель, Писатель, ""ПеремТестируемоеПриложение"");
+			
+			Отступ = Отступ - 1;
+			
+		ИначеЕсли  Читатель.Имя = ""gotoPreviousWindow""
+			ИЛИ Читатель.Имя = ""gotoNextWindow"" Тогда
+			
+			// Тогда ничего не происходит, так как выполнено переключение между окнами
+			// читаем дальше
+			Читатель.Прочитать();
+			
+		Иначе
+			
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			
+		КонецЕсли;
+	
+	КонецЦикла;
+	
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьОкно(Читатель, Писатель, ЛокальноеИмяПроцедуры)
+	
+	ТипОбъекта = Читатель.Имя;
+	ЗаголовокОбъекта = """";
+	ЭтоГлавноеОкно = Ложь;
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""caption"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		ИначеЕсли Читатель.Имя = ""isMain"" Тогда
+			ЭтоГлавноеОкно = Булево(Читатель.Значение);
+		КонецЕсли;
+	КонецЦикла;
+	
+	ИмяПеременной = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ? (ЭтоГлавноеОкно, ""Основное"", ЗаголовокОбъекта));
+	
+	ОбрабатываемоеОкно = ИмяПеременной;
+	
+	Отступ = Отступ + 1;
+	
+	Если СозданныеВОкнеИФормеПеременные.Получить(ОбрабатываемоеОкно) = Неопределено Тогда
+	
+		СозданныеВОкнеИФормеПеременные.Вставить(ОбрабатываемоеОкно, Новый Соответствие());
+		
+		Если ЭтоГлавноеОкно Тогда
+			ДобавитьСтроку(Писатель, """");
+			ДобавитьСтроку(Писатель, ИмяПеременной + "" = Неопределено;"");
+			ДобавитьСтроку(Писатель, ""КлиентсткиеОкнаТестируемогоПриложения = ПеремТестируемоеПриложение.ПолучитьПодчиненныеОбъекты();"");
+			ДобавитьСтроку(Писатель, ""Для Каждого ТестируемоеОкно Из КлиентсткиеОкнаТестируемогоПриложения Цикл"");
+			ДобавитьСтроку(Писатель, ""	Если ТестируемоеОкно.Основное Тогда"");
+			ДобавитьСтроку(Писатель, ""		"" + ИмяПеременной + "" = ТестируемоеОкно;"");
+			ДобавитьСтроку(Писатель, ""		Прервать;"");
+			ДобавитьСтроку(Писатель, ""	КонецЕсли;"");
+			ДобавитьСтроку(Писатель, ""КонецЦикла;"");
+		Иначе
+			
+			ДобавитьСтроку(Писатель, 
+						   ИмяПеременной + "" = ПеремТестируемоеПриложение.НайтиОбъект(Тип(""""ТестируемоеОкноКлиентскогоПриложения""""), """""" + УдвоитьКавычки(ЗаголовокОбъекта) + """""", , 30);"");
+		КонецЕсли;
+		
+	КонецЕсли;
+	ОкноБылоЗакрыто = Ложь;
+	
+	Читатель.Прочитать();
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+		
+		Если Читатель.Имя = ""Form"" Тогда
+			ПреобразоватьФорму(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Читатель.Имя = ""CommandInterface"" Тогда
+			ПреобразоватьКомандныйИнтерфейсОкна(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Не ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+		
+	КонецЦикла;
+	
+	Отступ = Отступ - 1;
+	Читатель.Прочитать();
+	
+	Если ОкноБылоЗакрыто Тогда
+		СозданныеВОкнеИФормеПеременные.Удалить(ОбрабатываемоеОкно);
+	КонецЕсли;
+	
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьКомандныйИнтерфейсОкна(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ЗаголовокОбъекта = """";
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ЗаголовокОбъекта);
+	ИмяПеременной = РодительскаяПеременная + ""КомандныйИнтерфейс"";
+
+	ФормыОкна = СозданныеВОкнеИФормеПеременные.Получить(ОбрабатываемоеОкно);
+	Если ФормыОкна.Получить(ОбрабатываемаяФорма) = Неопределено Тогда
+
+		ФормыОкна.Вставить(ОбрабатываемаяФорма, Новый Массив());
+	
+		ДобавитьСтроку(Писатель, ИмяПеременной + "" = "" + РодительскаяПеременная + "".ПолучитьКомандныйИнтерфейс();"");
+
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+		Если Читатель.Имя = ""CommandInterfaceButton"" Тогда
+			ПреобразоватьКнопкуКомандногоИнтерфейса(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Читатель.Имя = ""CommandInterfaceGroup"" Тогда
+			ПреобразоватьГруппуКомандногоИнтерфейса(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Не ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьКнопкуКомандногоИнтерфейса(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ЗаголовокОбъекта = """";
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ЗаголовокОбъекта);
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	КомандаБылаПреобразована = Ложь;
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			КомандаБылаПреобразована = Истина;
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если КомандаБылаПреобразована Или СтроитьПолнуюИерархию Тогда
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной + "" = "" + РодительскаяПеременная + "".НайтиОбъект(Тип(""""ТестируемаяКнопкаКомандногоИнтерфейса""""), """""" + УдвоитьКавычки(ЗаголовокОбъекта) + """""");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьГруппуКомандногоИнтерфейса(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ЗаголовокОбъекта = """";
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ЗаголовокОбъекта);
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если Читатель.Имя = ""CommandInterfaceButton"" Тогда
+			ПреобразоватьКнопкуКомандногоИнтерфейса(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли Читатель.Имя = ""CommandInterfaceGroup"" Тогда
+			ПреобразоватьГруппуКомандногоИнтерфейса(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если СтроитьПолнуюИерархию Тогда
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной + "" = "" + РодительскаяПеременная + "".НайтиОбъект(Тип(""""ТестируемаяГруппаКомандногоИнтерфейса""""), """""" + УдвоитьКавычки(ЗаголовокОбъекта) + """""");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьФорму(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ЗаголовокОбъекта = """";
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ЗаголовокОбъекта);
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+	ОбрабатываемаяФорма = ИмяПеременной;
+
+	ФормыОкна = СозданныеВОкнеИФормеПеременные.Получить(ОбрабатываемоеОкно);
+	Если ФормыОкна.Получить(ОбрабатываемаяФорма) = Неопределено Тогда
+
+		ФормыОкна.Вставить(ОбрабатываемаяФорма, Новый Массив());
+	
+		ДобавитьСтроку(Писатель, 
+					   ИмяПеременной + "" = "" + РодительскаяПеременная + "".НайтиОбъект(Тип(""""ТестируемаяФорма""""), """""" + УдвоитьКавычки(ЗаголовокОбъекта) + """""");"");
+
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+		Если Читатель.Имя = ""FormField"" Тогда
+			ПреобразоватьПоле(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Читатель.Имя = ""FormTable"" Тогда
+			ПреобразоватьТаблицу(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Читатель.Имя = ""FormDecoration"" Тогда
+			ПреобразоватьДекорацию(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Читатель.Имя = ""FormButton"" Тогда
+			ПреобразоватьКнопку(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Читатель.Имя = ""FormGroup"" Тогда
+			ПреобразоватьГруппу(Читатель, Писатель, ИмяПеременной);
+		ИначеЕсли Не ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьТаблицу(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ИмяОбъекта = Неопределено;
+	ЗаголовокОбъекта = Неопределено;
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""name"" Тогда
+			ИмяОбъекта = Читатель.Значение;
+		ИначеЕсли Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ? (ЗаголовокОбъекта = Неопределено, ИмяОбъекта, ЗаголовокОбъекта));
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	КомандаБылаПреобразована = Ложь;
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если Читатель.Имя = ""FormField"" Тогда
+			ПреобразоватьПоле(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли Читатель.Имя = ""FormGroup"" Тогда
+			ПреобразоватьГруппу(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			КомандаБылаПреобразована = Истина;
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если КомандаБылаПреобразована Или СтроитьПолнуюИерархию Тогда
+		ЗначениеЗаголовка = ЗначенияПоискаДляЗаголовка(ЗаголовокОбъекта, ИмяОбъекта);
+		ЗначениеИмени = ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта);
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной + "" = "" + РодительскаяПеременная + 
+					   "".НайтиОбъект(Тип(""""ТестируемаяТаблицаФормы""""), "" +
+					   ? (ЗначениеЗаголовка <> """" Или ЗначениеИмени <> """", ЗначениеЗаголовка, """") +
+					   ? (ЗначениеИмени <> """", "", "" + ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта), """") +
+					   "");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьПоле(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ИмяОбъекта = Неопределено;
+	ЗаголовокОбъекта = Неопределено;
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""name"" Тогда
+			ИмяОбъекта = Читатель.Значение;
+		ИначеЕсли Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ? (ЗаголовокОбъекта = Неопределено, ИмяОбъекта, ЗаголовокОбъекта));
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	КомандаБылаПреобразована = Ложь;
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если Читатель.Имя = ""FormField"" Тогда
+			ПреобразоватьПоле(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			КомандаБылаПреобразована = Истина;
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если КомандаБылаПреобразована Или СтроитьПолнуюИерархию Тогда
+		ЗначениеЗаголовка = ЗначенияПоискаДляЗаголовка(ЗаголовокОбъекта, ИмяОбъекта);
+		ЗначениеИмени = ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта);
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной + 
+					   "" = "" + 
+					   РодительскаяПеременная + 
+					   "".НайтиОбъект(Тип(""""ТестируемоеПолеФормы""""), "" + 
+					   ? (ЗначениеЗаголовка <> """" Или ЗначениеИмени <> """", ЗначениеЗаголовка, """") +
+					   ? (ЗначениеИмени <> """", "", "" + ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта), """") +
+					   "");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьКнопку(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ИмяОбъекта = Неопределено;
+	ЗаголовокОбъекта = Неопределено;
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""name"" Тогда
+			ИмяОбъекта = Читатель.Значение;
+		ИначеЕсли Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ? (ЗаголовокОбъекта = Неопределено, ИмяОбъекта, ЗаголовокОбъекта));
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	КомандаБылаПреобразована = Ложь;
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			КомандаБылаПреобразована = Истина;
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если КомандаБылаПреобразована Или СтроитьПолнуюИерархию Тогда
+		ЗначениеЗаголовка = ЗначенияПоискаДляЗаголовка(ЗаголовокОбъекта, ИмяОбъекта);
+		ЗначениеИмени = ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта);
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной +
+					   "" = "" +
+					   РодительскаяПеременная +
+					   "".НайтиОбъект(Тип(""""ТестируемаяКнопкаФормы""""), "" +
+					   ? (ЗначениеЗаголовка <> """" Или ЗначениеИмени <> """", ЗначениеЗаголовка, """") +
+					   ? (ЗначениеИмени <> """", "", "" + ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта), """") +
+					   "");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьДекорацию(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ИмяОбъекта = Неопределено;
+	ЗаголовокОбъекта = Неопределено;
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""name"" Тогда
+			ИмяОбъекта = Читатель.Значение;
+		ИначеЕсли Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ? (ЗаголовокОбъекта = Неопределено, ИмяОбъекта, ЗаголовокОбъекта));
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	КомандаБылаПреобразована = Ложь;
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			КомандаБылаПреобразована = Истина;
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если КомандаБылаПреобразована Или СтроитьПолнуюИерархию Тогда
+		ЗначениеЗаголовка = ЗначенияПоискаДляЗаголовка(ЗаголовокОбъекта, ИмяОбъекта);
+		ЗначениеИмени = ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта);
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной +
+					   "" = "" +
+					   РодительскаяПеременная +
+					   "".НайтиОбъект(Тип(""""ТестируемаяДекорацияФормы""""), "" +
+					   ? (ЗначениеЗаголовка <> """" Или ЗначениеИмени <> """", ЗначениеЗаголовка, """") +
+					   ? (ЗначениеИмени <> """", "", "" + ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта), """") +
+					   "");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Процедура ПреобразоватьГруппу(Читатель, Писатель, РодительскаяПеременная)
+
+	ТипОбъекта = Читатель.Имя;
+	ИмяОбъекта = Неопределено;
+	ЗаголовокОбъекта = Неопределено;
+	Пока Читатель.ПрочитатьАтрибут() Цикл
+		Если Читатель.Имя = ""name"" Тогда
+			ИмяОбъекта = Читатель.Значение;
+		ИначеЕсли Читатель.Имя = ""title"" Тогда
+			ЗаголовокОбъекта = Читатель.Значение;
+		КонецЕсли;
+	КонецЦикла;
+
+	ПоследнийОбработанныйЭлементУправления = ПреобразоватьЗаголовокВИмяПеременной(ТипОбъекта, ? (ЗаголовокОбъекта = Неопределено, ИмяОбъекта, ЗаголовокОбъекта));
+	ИмяПеременной = РодительскаяПеременная + ПоследнийОбработанныйЭлементУправления;
+
+	КоличествоСтрокПередОбработкой = Писатель.КоличествоСтрок();
+
+	Читатель.Прочитать();
+
+	КомандаБылаПреобразована = Ложь;
+	Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+
+		Если Читатель.Имя = ""FormField"" Тогда
+			ПреобразоватьПоле(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли Читатель.Имя = ""FormTable"" Тогда
+			ПреобразоватьТаблицу(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли Читатель.Имя = ""FormDecoration"" Тогда
+			ПреобразоватьДекорацию(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли Читатель.Имя = ""FormButton"" Тогда
+			ПреобразоватьКнопку(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли Читатель.Имя = ""FormGroup"" Тогда
+			ПреобразоватьГруппу(Читатель, Писатель, ? (СтроитьПолнуюИерархию, ИмяПеременной, РодительскаяПеременная));
+		ИначеЕсли ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной) Тогда
+			КомандаБылаПреобразована = Истина;
+		Иначе
+			ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+		КонецЕсли;
+
+	КонецЦикла;
+
+	Если КомандаБылаПреобразована Или СтроитьПолнуюИерархию Тогда
+		ЗначениеЗаголовка = ЗначенияПоискаДляЗаголовка(ЗаголовокОбъекта, ИмяОбъекта);
+		ЗначениеИмени = ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта);
+		ВставитьСтроку(Писатель, КоличествоСтрокПередОбработкой + 1, 
+					   ИмяПеременной +
+					   "" = "" +
+					   РодительскаяПеременная +
+					   "".НайтиОбъект(Тип(""""ТестируемаяГруппаФормы""""), "" +
+					   ? (ЗначениеЗаголовка <> """" Или ЗначениеИмени <> """", ЗначениеЗаголовка, """") +
+					   ? (ЗначениеИмени <> """", "", "" + ЗначенияПоискаДляИмени(ЗаголовокОбъекта, ИмяОбъекта), """") +
+					   "");"");
+	КонецЕсли;
+
+	Читатель.Прочитать();
+
+КонецПроцедуры
+
+&НаСервере
+Функция ПреобразоватьКоманду(Читатель, Писатель, ИмяПеременной)
+
+	Если Читатель.Имя = ""activate"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Активизировать();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Активизировать"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""inputText"" Тогда
+		ТекстДляВывода = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""text"" Тогда
+				ТекстДляВывода = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ВвестиТекст("""""" + УдвоитьКавычки(ТекстДляВывода) + """""");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ВвестиТекст"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""click"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Нажать();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Нажать"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""clear"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Очистить();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Очистить"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""open"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Открыть();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Открыть"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""startChoosing"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Выбрать();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Выбрать"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""startChoosingFromChoiceList"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ВыбратьИзСпискаВыбора();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ВыбратьИзСпискаВыбора"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""executeChoiceFromChoiceList"" Тогда
+		Представление = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""presentation"" Тогда
+				Представление = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ОжидатьФормированияВыпадающегоСписка();"", Истина);
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ВыполнитьВыборИзСпискаВыбора("""""" + УдвоитьКавычки(Представление) + """""");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ВыполнитьВыборИзСпискаВыбора"";
+		Читатель.Прочитать();
+		
+	ИначеЕсли Читатель.Имя = ""executeChoiseFromDropList"" Тогда
+		Читатель.Прочитать();
+		
+	ИначеЕсли Читатель.Имя = ""increaseValue"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".УвеличитьЗначение();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""УвеличитьЗначение"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""decreaseValue"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".УменьшитьЗначение();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""УменьшитьЗначение"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""setCheck"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".УстановитьОтметку();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""УстановитьОтметку"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""selectOption"" Тогда
+		Представление = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""presentation"" Тогда
+				Представление = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ВыбратьВариант("""""" + УдвоитьКавычки(Представление) + """""");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ВыбратьВариант"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoNextMonth"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиНаМесяцВперед();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиНаМесяцВперед"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoPreviousMonth"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиНаМесяцНазад();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиНаМесяцНазад"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoNextYear"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиНаГодВперед();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиНаГодВперед"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoPreviousYear"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиНаГодНазад();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиНаГодНазад"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoDate"" Тогда
+		Представление = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""date"" Тогда
+				Представление = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКДате(XMLЗначение(Тип(""""Дата""""), """""" + Представление + """"""));"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКДате"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""setCurrentArea"" Тогда
+		Область = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""area"" Тогда
+				Область = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".УстановитьТекущуюОбласть("""""" + Область + """""");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""УстановитьТекущуюОбласть"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""beginEditingCurrentArea"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".НачатьРедактированиеТекущейОбласти();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""НачатьРедактированиеТекущейОбласти"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""finishEditingCurrentArea"" Тогда
+		ФлагОтмены = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""cancel"" Тогда
+				ФлагОтмены = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ЗавершитьРедактированиеТекущейОбласти("" + ФлагОтмены + "");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ЗавершитьРедактированиеТекущейОбласти"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoNextItem"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКСледующемуЭлементу();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКСледующемуЭлементу"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoPreviousItem"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКПредыдущемуЭлементу();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКПредыдущемуЭлементу"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""goOneLevelUp"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиНаУровеньВверх();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиНаУровеньВверх"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""goOneLevelDown"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиНаУровеньВниз();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиНаУровеньВниз"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoNextRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКСледующейСтроке();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКСледующейСтроке"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoPreviousRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКПредыдущейСтроке();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКПредыдущейСтроке"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoFirstRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКПервойСтроке();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКПервойСтроке"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoLastRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ПерейтиКПоследнейСтроке();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКПоследнейСтроке"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""gotoRow"" Тогда
+		
+		Направление = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""direction"" Тогда
+				Направление = ? (Читатель.Значение = ""up"", ""НаправлениеПереходаКСтроке.Вверх"", ""НаправлениеПереходаКСтроке.Вниз"");
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+
+		Читатель.Прочитать();
+
+		ДобавитьСтроку(Писатель, ""ОписаниеСтроки = Новый Соответствие();"");
+
+		Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+			
+			Если Читатель.Имя = ""Field"" Тогда
+
+				ЗаголовокСтолбца = """";
+				ТекстЯчейки = """";
+				Пока Читатель.ПрочитатьАтрибут() Цикл
+					Если Читатель.Имя = ""title"" Тогда
+						ЗаголовокСтолбца = Читатель.Значение;
+					ИначеЕсли Читатель.Имя = ""cellText"" Тогда
+						ТекстЯчейки = Читатель.Значение;
+					Иначе
+						ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+					КонецЕсли;
+				КонецЦикла;
+				ДобавитьСтроку(Писатель, ""ОписаниеСтроки.Вставить("""""" + 
+											ЗаголовокСтолбца + """""", """""" + УдвоитьКавычки(ТекстЯчейки) + """""");"");
+				Читатель.Прочитать();
+
+			Иначе
+
+				ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+
+			КонецЕсли;
+
+			Читатель.Прочитать();
+
+		КонецЦикла;
+
+		ДобавитьСтроку(Писатель, 
+						ИмяПеременной + "".ПерейтиКСтроке(ОписаниеСтроки"" + ? (Направление = """", """", "", "" + Направление)+ "");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ПерейтиКСтроке"";
+
+	ИначеЕсли Читатель.Имя = ""choose"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Выбрать();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Выбрать"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""changeRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ИзменитьСтроку();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ИзменитьСтроку"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""endEditRow"" Тогда
+		ФлагОтмены = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""cancel"" Тогда
+				ФлагОтмены = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ЗакончитьРедактированиеСтроки("" + ФлагОтмены + "");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ЗакончитьРедактированиеСтроки"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""addRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ДобавитьСтроку();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ДобавитьСтроку"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""deleteRow"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".УдалитьСтроку();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""УдалитьСтроку"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""expand"" Тогда
+
+		Читатель.Прочитать();
+
+		Если Читатель.ТипУзла = ТипУзлаXML.НачалоЭлемента И Читатель.Имя = ""Field"" Тогда
+
+			ДобавитьСтроку(Писатель, ""ОписаниеСтроки = Новый Соответствие();"");
+
+			Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+				
+				Если Читатель.Имя = ""Field"" Тогда
+
+					ЗаголовокСтолбца = """";
+					ТекстЯчейки = """";
+					Пока Читатель.ПрочитатьАтрибут() Цикл
+						Если Читатель.Имя = ""title"" Тогда
+							ЗаголовокСтолбца = Читатель.Значение;
+						ИначеЕсли Читатель.Имя = ""cellText"" Тогда
+							ТекстЯчейки = Читатель.Значение;
+						Иначе
+							ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+						КонецЕсли;
+					КонецЦикла;
+					ДобавитьСтроку(Писатель, ""ОписаниеСтроки.Вставить("""""" + 
+												ЗаголовокСтолбца + """""", """""" + УдвоитьКавычки(ТекстЯчейки) + """""");"");
+					Читатель.Прочитать();
+
+				Иначе
+
+					ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+
+				КонецЕсли;
+
+				Читатель.Прочитать();
+
+			КонецЦикла;
+
+			ДобавитьСтроку(Писатель, ИмяПеременной + "".Развернуть(ОписаниеСтроки);"", Истина);
+
+		Иначе
+
+			ДобавитьСтроку(Писатель, ИмяПеременной + "".Развернуть();"", Истина);
+
+		КонецЕсли;
+
+		ПоследняяОбработаннаяКоманда = ""Развернуть"";
+
+	ИначеЕсли Читатель.Имя = ""collapse"" Тогда
+
+		Читатель.Прочитать();
+
+		Если Читатель.ТипУзла = ТипУзлаXML.НачалоЭлемента И Читатель.Имя = ""Field"" Тогда
+
+			ДобавитьСтроку(Писатель, ""ОписаниеСтроки = Новый Соответствие();"");
+
+			Пока Читатель.ТипУзла <> ТипУзлаXML.КонецЭлемента Цикл
+				
+				Если Читатель.Имя = ""Field"" Тогда
+
+					ЗаголовокСтолбца = """";
+					ТекстЯчейки = """";
+					Пока Читатель.ПрочитатьАтрибут() Цикл
+						Если Читатель.Имя = ""title"" Тогда
+							ЗаголовокСтолбца = Читатель.Значение;
+						ИначеЕсли Читатель.Имя = ""cellText"" Тогда
+							ТекстЯчейки = Читатель.Значение;
+						Иначе
+							ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+						КонецЕсли;
+					КонецЦикла;
+					ДобавитьСтроку(Писатель, ""ОписаниеСтроки.Вставить("""""" + 
+												ЗаголовокСтолбца + """""", """""" + УдвоитьКавычки(ТекстЯчейки) + """""");"");
+					Читатель.Прочитать();
+
+				Иначе
+
+					ВызватьИсключение НСтр(""ru = 'Неопознанный узел '"") + Читатель.Имя + "": "" + Читатель.Значение;
+
+				КонецЕсли;
+
+				Читатель.Прочитать();
+
+			КонецЦикла;
+
+			ДобавитьСтроку(Писатель, ИмяПеременной + "".Свернуть(ОписаниеСтроки);"", Истина);
+
+		Иначе
+
+			ДобавитьСтроку(Писатель, ИмяПеременной + "".Свернуть();"", Истина);
+
+		КонецЕсли;
+		
+		ПоследняяОбработаннаяКоманда = ""Свернуть"";
+
+	ИначеЕсли Читатель.Имя = ""close"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Закрыть();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Закрыть"";
+		ОкноБылоЗакрыто = Истина;
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""chooseUserMessage"" Тогда
+		ТекстСообщения = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""messageText"" Тогда
+				ТекстСообщения = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ВыбратьСообщениеПользователю("""""" + ТекстСообщения + """""");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ВыбратьСообщениеПользователю"";
+		Читатель.Прочитать();
+
+	ИначеЕсли Читатель.Имя = ""executeCommand"" Тогда
+		СсылкаНаКоманду = """";
+		Пока Читатель.ПрочитатьАтрибут() Цикл
+			Если Читатель.Имя = ""url"" Тогда
+				СсылкаНаКоманду = Читатель.Значение;
+			Иначе
+				ВызватьИсключение НСтр(""ru = 'Неопознанный атрибут '"") + Читатель.Имя + "": "" + Читатель.Значение;
+			КонецЕсли;
+		КонецЦикла;
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ВыполнитьКоманду("""""" + СсылкаНаКоманду + """""");"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ВыполнитьКоманду"";
+		Читатель.Прочитать();
+		
+	ИначеЕсли Читатель.Имя = ""openDropList"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ОткрытьВыпадающийСписок();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ОткрытьВыпадающийСписок"";
+		Читатель.Прочитать();
+		
+	ИначеЕсли Читатель.Имя = ""closeDropList"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".ЗакрытьВыпадающийСписок();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""ЗакрытьВыпадающийСписок"";
+		Читатель.Прочитать();
+		
+	ИначеЕсли Читатель.Имя = ""Create"" Тогда
+		ДобавитьСтроку(Писатель, ИмяПеременной + "".Создать();"", Истина);
+		ПоследняяОбработаннаяКоманда = ""Создать"";
+		Читатель.Прочитать();
+		
+	ИначеЕсли Читатель.Имя = ""gotoPreviousWindow""
+		ИЛИ Читатель.Имя = ""gotoNextWindow"" Тогда
+		// Ничего не нужно делать - это команда перехода между окнами
+		// Нужно окно можно активизировать и обычными средствами
+
+	Иначе
+		Возврат Ложь;
+	КонецЕсли;
+	
+	Читатель.Прочитать();
+
+	Возврат Истина;
+
+КонецФункции
+
+
+
+#КонецОбласти
+
+
+#КонецОбласти
+
+
+#КонецОбласти
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",
+{4,13,
+{9,
+{1},0,"Объект",
+{1,0},
+{"Pattern",
+{"#",ce4daf12-db98-4c61-b8f1-c944e90b3899}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},1,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{2},0,"ШагиДерево",
+{1,1,
+{"ru","Шаги дерево"}
+},
+{"Pattern",
+{"#",e603c0f2-92fb-4d47-8f38-a44a381cf235}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,1,0,21,
+{5,1,0,"НомерШага",
+{1,1,
+{"ru","№ шага"}
+},
+{"Pattern",
+{"N",5,0,0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,2,0,"Наименование",
+{1,1,
+{"ru","Наименование"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,3,0,"ТипШага",
+{1,1,
+{"ru","Тип шага"}
+},
+{"Pattern",
+{"S",50,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,4,0,"ТипМетаданных",
+{1,1,
+{"ru","Тип метаданных"}
+},
+{"Pattern",
+{"S",100,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,5,0,"ИмяМетаданных",
+{1,1,
+{"ru","Имя метаданных"}
+},
+{"Pattern",
+{"S",100,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,6,0,"Автоописание",
+{1,1,
+{"ru","Автоописание"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,7,0,"Описание",
+{1,1,
+{"ru","Описание"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,8,0,"НеВыводитьАвтоописание",
+{1,1,
+{"ru","Не выводить автоописание"}
+},
+{"Pattern",
+{"B"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,9,0,"Активность",
+{1,1,
+{"ru","Активность"}
+},
+{"Pattern",
+{"N",1,0,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,10,0,"Выполнено",
+{1,1,
+{"ru","Выполнено"}
+},
+{"Pattern",
+{"N",1,0,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,11,0,"Значение",
+{1,1,
+{"ru","Значение"}
+},
+{"Pattern",
+{"#",e603c0f2-92fb-4d47-8f38-a44a381cf235}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,12,0,"ОбСсылка",
+{1,1,
+{"ru","Об ссылка"}
+},
+{"Pattern",
+{"S",1000,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,13,0,"ПредставлениеОбъекта",
+{1,1,
+{"ru","Представление объекта"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,14,0,"ВыполнитьВручную",
+{1,1,
+{"ru","Вып."}
+},
+{"Pattern",
+{"N",1,0,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,16,0,"УИШ",
+{1,1,
+{"ru","УИШ"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,17,0,"Цвет",
+{1,1,
+{"ru","Цвет"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,18,0,"Комментарий",
+{1,1,
+{"ru","Комментарий"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,20,0,"ИмяФормы",
+{1,1,
+{"ru","Имя формы"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,21,0,"ПредставлениеИмениМетаданных",
+{1,1,
+{"ru","Представление имени метаданных"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,22,0,"ДанныеКартинки",
+{1,1,
+{"ru","Данные картинки"}
+},
+{"Pattern",
+{"N",2,0,1},
+{"#",e6f51714-91cb-4dce-94fe-90ae3e3e1ad1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,23,0,"ЗаголовокФормы",
+{1,1,
+{"ru","Заголовок формы"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{0,0},
+{0,0}
+},
+{9,
+{4},0,"СообщенияОбОшибкахПреобразования",
+{1,1,
+{"ru","Сообщения об ошибках преобразования"}
+},
+{"Pattern",
+{"#",4772b3b4-f4a3-49c0-a1a5-8cb5961511a3}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{5},0,"ПутьКФормам",
+{1,1,
+{"ru","Путь к формам"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{6},0,"ИмяОбъектаЭтойФормы",
+{1,1,
+{"ru","Имя объекта этой формы"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{7},0,"ТекстЖурнала",
+{1,1,
+{"ru","Текст журнала"}
+},
+{"Pattern",
+{"#",ebf766b1-f32c-11d3-9851-008048da1252}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{8},0,"ТекстПрограммы",
+{1,1,
+{"ru","Текст программы"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{9},0,"РежимОткрытияФормыЖурнала",
+{1,1,
+{"ru","Режим открытия формы журнала"}
+},
+{"Pattern",
+{"S",50,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{3},0,"СостояниеЗаписи",
+{1,1,
+{"ru","Состояние записи"}
+},
+{"Pattern",
+{"S",50,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{10},0,"СтроитьПолнуюИерархию",
+{1,1,
+{"ru","Строить полную иерархию"}
+},
+{"Pattern",
+{"B"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{11},0,"ОбрабатываемаяФорма",
+{1,1,
+{"ru","Обрабатываемая форма"}
+},
+{"Pattern"},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{12},0,"ОбрабатываемоеОкно",
+{1,1,
+{"ru","Обрабатываемое окно"}
+},
+{"Pattern"},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},
+{9,
+{14},0,"ПоискОбъектов",
+{1,1,
+{"ru","Поиск объектов"}
+},
+{"Pattern",
+{"N",1,0,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},
+{0,0},0,0,0,0,
+{0,0},
+{0,0}
+},1,
+{0,
+{2,
+{2},
+{11}
+},9,
+{5,1,0,"Имя",
+{1,1,
+{"ru","Имя"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,2,0,"Синоним",
+{1,1,
+{"ru","Синоним"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,3,0,"Активность",
+{1,1,
+{"ru","Активность"}
+},
+{"Pattern",
+{"N",1,0,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,4,0,"Значение",
+{1,1,
+{"ru","Значение"}
+},
+{"Pattern",
+{"#",4772b3b4-f4a3-49c0-a1a5-8cb5961511a3},
+{"#",5a49abd5-936d-4f46-8499-9cb204efe378},
+{"B"},
+{"#",741ae838-6e42-4ac0-b6a4-17e5604b0669},
+{"#",872f7198-7083-4e3e-b57e-a2a9802c769e},
+{"S"},
+{"D"},
+{"N",10,4,0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,5,0,"Представление",
+{1,1,
+{"ru","Представление"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,6,0,"Действие",
+{1,1,
+{"ru","Действие"}
+},
+{"Pattern",
+{"S",50,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,7,0,"Скрипт",
+{1,1,
+{"ru","Скрипт"}
+},
+{"Pattern",
+{"S"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,8,0,"ТипУзла",
+{1,1,
+{"ru","Тип узла"}
+},
+{"Pattern",
+{"S",50,1}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,9,0,"Кл",
+{1,1,
+{"ru","Кл"}
+},
+{"Pattern",
+{"B"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0}
+},0,
+{#base64:77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxTZXR0
+aW5ncyB4bWxucz0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhLWNvbXBvc2l0aW9u
+LXN5c3RlbS9zZXR0aW5ncyIgeG1sbnM6ZGNzY29yPSJodHRwOi8vdjguMWMucnUv
+OC4xL2RhdGEtY29tcG9zaXRpb24tc3lzdGVtL2NvcmUiIHhtbG5zOnN0eWxlPSJo
+dHRwOi8vdjguMWMucnUvOC4xL2RhdGEvdWkvc3R5bGUiIHhtbG5zOnN5cz0iaHR0
+cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2ZvbnRzL3N5c3RlbSIgeG1sbnM6djg9
+Imh0dHA6Ly92OC4xYy5ydS84LjEvZGF0YS9jb3JlIiB4bWxuczp2OHVpPSJodHRw
+Oi8vdjguMWMucnUvOC4xL2RhdGEvdWkiIHhtbG5zOndlYj0iaHR0cDovL3Y4LjFj
+LnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93ZWIiIHhtbG5zOndpbj0iaHR0cDovL3Y4
+LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93aW5kb3dzIiB4bWxuczp4cz0iaHR0
+cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDov
+L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
+},
+{0,2,
+{0,"РежимОткрытияФормыЖурнала",
+{"Pattern",
+{"S"}
+},0},
+{0,"РежимСовместимости838",
+{"Pattern",
+{"B"}
+},0}
+},
+{0,8,
+{7,
+{5,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЖурналНачатьЗапись",
+{1,1,
+{"ru","Начать запись"}
+},
+{1,1,
+{"ru","Начать запись журнала действий пользователя"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,0,
+{0},"",-1,-1,1,0,""},"ЖурналНачатьЗапись",2,0,0,
+{0,0},1,0},
+{7,
+{6,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЖурналПауза",
+{1,1,
+{"ru","Приостановить запись (Пауза)"}
+},
+{1,1,
+{"ru","Приостановить запись (Пауза)"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,0,
+{0},"",-1,-1,1,0,""},"ЖурналПауза",3,0,0,
+{0,0},1,0},
+{7,
+{7,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЖурналОстановка",
+{1,1,
+{"ru","Остановка"}
+},
+{1,1,
+{"ru","Остановить запись журнала действий пользователя"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,0,
+{0},"",-1,-1,1,0,""},"ЖурналОстановка",3,0,0,
+{0,0},1,0},
+{7,
+{8,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЖурналПрочитатьИзФайла",
+{1,1,
+{"ru","Прочитать из файла"}
+},
+{1,1,
+{"ru","Прочитать ранее записанный журнал"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,1,
+{0,785362cb-3756-48ed-87d2-292ded17054a},"",-1,-1,1,0,""},"ЖурналПрочитатьИзФайла",2,0,0,
+{0,0},1,0},
+{7,
+{9,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЖурналСохранитьВФайл",
+{1,1,
+{"ru","Сохранить в файл"}
+},
+{1,1,
+{"ru","Журнал сохранить в файл"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,1,
+{0,818ab7d0-4654-4542-bd5e-fd9d1352b5a1},"",-1,-1,1,0,""},"ЖурналСохранитьВФайл",2,0,0,
+{0,0},1,0},
+{7,
+{10,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ШагиОбновить",
+{1,1,
+{"ru","Обновить"}
+},
+{1,1,
+{"ru","Шаги обновить"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,1,
+{0,fc4f29e0-d168-4fe0-8e64-e982fabf2595},"",-1,-1,1,0,""},"ШагиОбновить",3,0,0,
+{0,0},1,0},
+{7,
+{2,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ТекстПроцедурыОбновить",
+{1,1,
+{"ru","Обновить"}
+},
+{1,1,
+{"ru","Текст процедуры обновить"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,1,
+{0,fc4f29e0-d168-4fe0-8e64-e982fabf2595},"",-1,-1,1,0,""},"ТекстПроцедурыОбновить",3,0,0,
+{0,0},1,0},
+{7,
+{11,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЗаписатьИЗакрыть",
+{1,1,
+{"ru","Записать и закрыть"}
+},
+{1,1,
+{"ru","Записать и закрыть"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,0,
+{0},"",-1,-1,1,0,""},"ЗаписатьИЗакрыть",3,0,0,
+{0,0},1,0}
+},
+{0,0},
+{0,0},0,0}
